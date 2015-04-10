@@ -79,8 +79,8 @@
 				</div>
 				</li>
 			</a>
+			<a href="/work" class="more">See more of our work</a>
 		</ul>
-		<a href="/work" class="more">See more of our work</a>
 	</div>
 
 	<div class="section-header">
@@ -90,10 +90,10 @@
 	<div class="client-logos">
 		<div class="inner">
 			<img src="/assets/img/client-logos/amey.png">
+			<img src="/assets/img/client-logos/bbclogo.png">
+			<img src="/assets/img/client-logos/asda.png">
 			<img src="/assets/img/client-logos/apprentice.png">
 			<img src="/assets/img/client-logos/army.png">
-			<img src="/assets/img/client-logos/asda.png">
-			<img src="/assets/img/client-logos/bbclogo.png">
 			<img src="/assets/img/client-logos/capital.png">
 			<img src="/assets/img/client-logos/ch4.png">
 			<img src="/assets/img/client-logos/heart.png">

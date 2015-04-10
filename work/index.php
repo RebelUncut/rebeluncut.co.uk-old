@@ -1,10 +1,12 @@
 <?php include "../partials/_header.php" ?>
 
 	<div class="page-title">
-		<h1>Our Work</h1>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nisi, nesciunt earum harum vitae nulla id perferendis culpa ab. 
-		</p>
+		<div class="wrapper">
+			<h1>Our Work</h1>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nisi, nesciunt earum harum vitae nulla id perferendis culpa ab. 
+			</p>
+		</div>
 	</div>
 
 	<div class="case-studies home">

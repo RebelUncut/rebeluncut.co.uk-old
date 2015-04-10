@@ -1,5 +1,6 @@
 ul.team {
 	@include outer-container;
+	margin-top: 3em;
 	li {
 		@include span-columns(3);
 		@include omega(4n);
@@ -20,6 +21,7 @@ ul.team {
 		}
 		h3 {
 			font-weight: 400;
+			margin-bottom: 0;
 		}
 	}
 	@media screen and (max-width: $medium-screen) {

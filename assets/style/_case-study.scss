@@ -1,9 +1,9 @@
 .case-study {
 	.case-study-header {
-		background-color: $color_accent;
+		background-color: white;
 		padding: 3em;
 		* {
-			color: white;
+			color: $color_accent;
 			text-align: center;
 			text-transform: uppercase;
 			margin-bottom: 0;
@@ -54,13 +54,13 @@
 			float: left;
 			display: block;
 		}
-		&:nth-child(2n + 1) {
+		&:nth-child(2),
+		&:nth-child(6) {
 			.copy {
 				background: $color_accent;
-				float: right;
 				.inner {
 					background: white;
-					color: #373737;
+					color: $color_dark-grey;
 				}
 				h2 {
 					border-bottom-color: $color_accent;

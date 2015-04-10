@@ -2,9 +2,13 @@
 
 	<div class="case-study">
 
-		<div class="case-study-header">
-			<h1>Name of the case study story title</h1>
-			<h2 class="client">Chef &amp; Brewer</h2>
+		<div class="page-title">
+			<div class="wrapper">
+				<h1>Case Study Title</h1>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nisi, nesciunt earum harum vitae nulla id perferendis culpa ab. 
+				</p>
+			</div>
 		</div>
 
 		<section>

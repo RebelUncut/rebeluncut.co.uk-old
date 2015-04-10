@@ -1,6 +1,6 @@
 .page-title {
 	padding: 4.5rem 0;
-	@include outer-container;
+	background: $color_light-grey;
 	h1 {
 		font-size: 3rem;
 		color: $color_dark-grey;

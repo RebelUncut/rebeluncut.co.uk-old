@@ -1,10 +1,12 @@
 <?php include "partials/_header.php" ?>
 
 <div class="page-title">
-	<h1>Contact Us</h1>
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam officiis reiciendis ipsa.
-	</p>
+	<div class="wrapper">
+		<h1>Contact Us</h1>
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam officiis reiciendis ipsa.
+		</p>
+	</div>
 </div>
 
 <div class="contact">

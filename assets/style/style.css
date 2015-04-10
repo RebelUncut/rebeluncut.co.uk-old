@@ -467,13 +467,7 @@ header .lower-nav {
 
 .page-title {
   padding: 4.5rem 0;
-  max-width: 68em;
-  margin-left: auto;
-  margin-right: auto; }
-  .page-title::after {
-    clear: both;
-    content: "";
-    display: table; }
+  background: #EEEDED; }
   .page-title h1 {
     font-size: 3rem;
     color: #3B4746;
@@ -675,7 +669,8 @@ ul.work-tiles {
 ul.team {
   max-width: 68em;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  margin-top: 3em; }
   ul.team::after {
     clear: both;
     content: "";
@@ -708,7 +703,8 @@ ul.team {
         color: #7f359c;
         margin-left: .5em; }
     ul.team li h3, .services ul.team li p {
-      font-weight: 400; }
+      font-weight: 400;
+      margin-bottom: 0; }
   @media screen and (max-width: 1100px) {
     ul.team {
       padding: 0 1.5rem; }
@@ -852,10 +848,10 @@ ul.team {
     display: none; } }
 
 .case-study .case-study-header {
-  background-color: #7f359c;
+  background-color: white;
   padding: 3em; }
   .case-study .case-study-header * {
-    color: white;
+    color: #7f359c;
     text-align: center;
     text-transform: uppercase;
     margin-bottom: 0; }
@@ -898,13 +894,12 @@ ul.team {
   width: 50vw;
   float: left;
   display: block; }
-.case-study section:nth-child(2n + 1) .copy {
-  background: #7f359c;
-  float: right; }
-  .case-study section:nth-child(2n + 1) .copy .inner {
+.case-study section:nth-child(2) .copy, .case-study section:nth-child(6) .copy {
+  background: #7f359c; }
+  .case-study section:nth-child(2) .copy .inner, .case-study section:nth-child(6) .copy .inner {
     background: white;
-    color: #373737; }
-  .case-study section:nth-child(2n + 1) .copy h2 {
+    color: #3B4746; }
+  .case-study section:nth-child(2) .copy h2, .case-study section:nth-child(6) .copy h2 {
     border-bottom-color: #7f359c; }
 @media screen and (max-width: 900px) {
   .case-study section .copy,
@@ -956,7 +951,7 @@ ul.team {
       margin-bottom: 4em; }
 
 .case-study-quote {
-  background: #301573;
+  background: #7f359c;
   display: block;
   float: left;
   width: 100%;
@@ -999,7 +994,8 @@ ul.team {
     content: "";
     display: table; }
   .contact .match {
-    margin-bottom: 3em; }
+    margin-bottom: 3em;
+    margin-top: 3em; }
   .contact h2 {
     font-size: 1.25em;
     float: left;

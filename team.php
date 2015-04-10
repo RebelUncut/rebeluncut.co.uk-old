@@ -1,10 +1,12 @@
 <?php include "partials/_header.php" ?>
 
 <div class="page-title">
-	<h1>Our Team</h1>
-	<p>
-		We are a small, neat core team and a colelctive of professional freelance family.
-	</p>
+	<div class="wrapper">
+		<h1>Our Team</h1>
+		<p>
+			We are a small, neat core team and a colelctive of professional freelance family.
+		</p>
+	</div>
 </div>
 
 <ul class="team">
