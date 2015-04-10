@@ -1,0 +1,35 @@
+$yrs-red: #E34F50;
+
+.yrs-hyperlocal {
+	@include outer-container;
+	.logo {
+		@include span-columns(12);
+		margin-top: 3em;
+		margin-bottom: 3em;
+		img {
+			@include span-columns(4 of 12);
+		}
+	}
+	ul.roles {
+		li {
+			@include span-columns(6 of 12);
+			text-align: center;
+			h2 {
+				background: $yrs-red;
+				color: white;
+				padding: 1rem;
+				small {
+					display: block;
+				}
+			}
+			img {
+				height: 200px;
+				margin: 0 auto;
+				display: block;
+			}
+			p {
+
+			}
+		}
+	}
+}

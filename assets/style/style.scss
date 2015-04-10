@@ -1,0 +1,29 @@
+@import "bourbon/bourbon";
+@import "neat/neat";
+@import "base/base";
+@import "vars";
+@import "phzn";
+
+@import "header";
+@import "footer";
+@import "page-title";
+@import "section-header";
+@import "see-more";
+
+@import "services";
+@import "work-tiles";
+@import "video-header";
+@import "team";
+@import "case-studies";
+@import "case-study";
+@import "client-logos";
+@import "quote";
+@import "contact";
+@import "yrs";
+
+body {
+	margin: 0; 
+	padding: 0;
+	min-height: 100vh;
+	font-family: 'Open Sans', 'Helvetica Neue' sans-serif;
+}

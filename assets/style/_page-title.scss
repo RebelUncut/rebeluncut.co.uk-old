@@ -1,0 +1,26 @@
+.page-title {
+	padding: 4.5rem 0;
+	@include outer-container;
+	h1 {
+		font-size: 3rem;
+		color: $color_dark-grey;
+		font-weight: 800;
+		letter-spacing: -.05em;
+		border-bottom: 2px solid $color_accent;
+		padding-bottom: .25em;
+		float: left;
+	}
+	p {
+		float: left;
+		width: 100%;
+	}
+	@media screen and (max-width: $medium-screen) {
+		padding: 0 1em;
+		h1 {
+			font-size: 2rem;
+		}
+		p {
+			font-size: 1rem;
+		}
+	}
+}

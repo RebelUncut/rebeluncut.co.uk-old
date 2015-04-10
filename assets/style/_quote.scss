@@ -1,0 +1,42 @@
+.case-study-quote {
+	background: #301573;
+	display: block;
+	float: left;
+	width: 100%;
+	padding: 5em;
+	font-size: 1.5em;
+	blockquote {
+		color: white;
+		font-weight: bold;
+		text-align: center;
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+		p {
+			display: inline;
+		}
+		&:before,
+		&:after {
+			content: '"';
+			display: inline;
+		}
+	}
+	cite {
+		text-align: center;
+		color: white;
+		margin-top: 1em;
+		display: block;
+		&:before {
+			content: "-";
+			margin-right: .5em;
+		}
+	}
+	&.home {
+		background: $color_accent !important;
+	}
+	@media screen and (max-width: 900px) {
+		padding: 10vw;
+		font-size: 1em;
+	}
+}

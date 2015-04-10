@@ -1,0 +1,31 @@
+.pre-footer {
+  width: 100%;
+  background: rgb(242,242,242);
+  display: inline-block;
+  img {
+    display: block;
+    margin: 5em auto;
+  }
+  p {
+    margin-bottom: 1em;
+    text-align: center;
+    width: 60vw;
+    margin-left: 20vw;
+    i {
+      color: $color_accent;
+    }
+    a i {
+      margin-left: .5em;
+      margin-right: .5em;
+    }
+    &:last-child {
+      margin-bottom: 5em;
+    }
+  }
+  @media screen and (max-width: 900px) {
+    p {
+      width: 80vw;
+      margin-left: 10vw;
+    }
+  }
+}

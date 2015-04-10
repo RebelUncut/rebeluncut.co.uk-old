@@ -1,0 +1,18 @@
+.client-logos {	
+	@include outer-container;
+	padding-left: 1em;
+	padding-right: 1em;
+	.inner {
+		@include span-columns(12);
+	}
+	img {
+		@include span-columns(2.4);
+		@include omega(5n);
+		&:nth-child(-n+5) {
+			margin-top: 0em;
+		}
+		&:nth-child(n+5) {
+			margin-bottom: 4em;
+		}
+	}
+}

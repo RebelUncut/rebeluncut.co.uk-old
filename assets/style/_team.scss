@@ -1,0 +1,43 @@
+ul.team {
+	@include outer-container;
+	li {
+		@include span-columns(3);
+		@include omega(4n);
+		text-align: center;
+		margin-bottom: 3rem;
+		img {
+			@include prefix((border-radius: 100em), webkit moz ms o);
+			width: 100%;
+		}
+		h2 {
+			font-weight: 800;
+			margin-top: 1em;
+			margin-bottom: .5rem;
+			a {
+				color: $color_accent;
+				margin-left: .5em;
+			}
+		}
+		h3 {
+			font-weight: 400;
+		}
+	}
+	@media screen and (max-width: $medium-screen) {
+		padding: 0 1.5rem;
+		li {
+			@include span-columns(6);
+			@include omega(2n);
+			img {
+				padding: 1.5rem;
+			}
+		}
+	}
+	@media screen and (max-width: $small-screen) {
+		li {
+			@include span-columns(12);
+			img {
+				display: none;
+			}
+		}
+	}
+}
