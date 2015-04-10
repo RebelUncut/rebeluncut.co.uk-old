@@ -64,7 +64,7 @@
 		</section>
 
 		<div class="finished-work">
-			<iframe src="http://player.vimeo.com/video/95734680?title=0&byline=0&" frameborder="0"></iframe>
+			<iframe src="http://player.vimeo.com/video/47125661?title=0&byline=0&" frameborder="0"></iframe>
 		</div>
 
 	</div>
