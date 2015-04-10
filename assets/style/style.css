@@ -392,11 +392,11 @@ header nav {
           transition: all 0.15s ease-out 0s;
           opacity: 0.8;
           color: white; }
-      header nav ul li.contact {
+      header nav ul li.get-in-touch {
         float: right; }
-        header nav ul li.contact a {
+        header nav ul li.get-in-touch a {
           margin-left: 1em; }
-        header nav ul li.contact i {
+        header nav ul li.get-in-touch i {
           font-size: .8rem;
           margin-right: .5rem; }
 header .lower-nav {
@@ -432,13 +432,13 @@ header .lower-nav {
     display: block;
     text-align: center;
     padding: 0.75rem; }
-    header nav ul li.contact {
+    header nav ul li.get-in-touch {
       width: 100%;
       text-align: center; }
-      header nav ul li.contact .fa-twitter,
-      header nav ul li.contact .fa-facebook {
+      header nav ul li.get-in-touch .fa-twitter,
+      header nav ul li.get-in-touch .fa-facebook {
         display: none; }
-      header nav ul li.contact a {
+      header nav ul li.get-in-touch a {
         margin-left: 0; } }
 
 .pre-footer {
@@ -478,10 +478,11 @@ header .lower-nav {
     float: left; }
   .page-title p {
     float: left;
-    width: 100%; }
+    width: 100%;
+    margin-bottom: 0; }
   @media screen and (max-width: 1100px) {
     .page-title {
-      padding: 0 1em; }
+      padding: 2em 1em; }
       .page-title h1 {
         font-size: 2rem; }
       .page-title p {
@@ -1090,24 +1091,65 @@ ul.team {
       width: 31.76157%; }
       .yrs-hyperlocal .logo img:last-child {
         margin-right: 0; }
+  .yrs-hyperlocal .intro {
+    margin-bottom: 3em; }
   .yrs-hyperlocal ul.roles li {
     float: left;
     display: block;
     margin-right: 2.35765%;
     width: 48.82117%;
-    text-align: center; }
+    margin-bottom: 3em; }
     .yrs-hyperlocal ul.roles li:last-child {
       margin-right: 0; }
     .yrs-hyperlocal ul.roles li h2 {
-      background: #E34F50;
-      color: white;
-      padding: 1rem; }
-      .yrs-hyperlocal ul.roles li h2 small {
-        display: block; }
+      float: left;
+      padding-bottom: .75em;
+      border-bottom: 2px solid #7f359c;
+      font-size: 2rem;
+      margin-bottom: 2rem; }
+      @media screen and (max-width: 1100px) {
+        .yrs-hyperlocal ul.roles li h2 {
+          margin: 1.5rem; } }
+      @media screen and (max-width: 500px) {
+        .yrs-hyperlocal ul.roles li h2 {
+          margin: 1.5rem;
+          font-size: 1.5rem;
+          padding-bottom: .5rem; } }
+    .yrs-hyperlocal ul.roles li img,
+    .yrs-hyperlocal ul.roles li p {
+      display: block;
+      clear: both;
+      float: left;
+      position: relative; }
     .yrs-hyperlocal ul.roles li img {
-      height: 200px;
-      margin: 0 auto;
-      display: block; }
+      height: 200px; }
+    .yrs-hyperlocal ul.roles li p {
+      width: 100%;
+      margin-top: 2rem; }
+      @media screen and (max-width: 1100px) {
+        .yrs-hyperlocal ul.roles li p {
+          padding: 1.5rem; } }
+  @media screen and (max-width: 1100px) {
+    .yrs-hyperlocal .logo,
+    .yrs-hyperlocal .intro {
+      margin-left: 1.5em;
+      margin-right: 1.5em; }
+    .yrs-hyperlocal .logo img {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 65.88078%; }
+      .yrs-hyperlocal .logo img:last-child {
+        margin-right: 0; }
+    .yrs-hyperlocal ul.roles li {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 100%; }
+      .yrs-hyperlocal ul.roles li:last-child {
+        margin-right: 0; }
+      .yrs-hyperlocal ul.roles li:first-child {
+        margin-bottom: 0; } }
 
 body {
   margin: 0;
