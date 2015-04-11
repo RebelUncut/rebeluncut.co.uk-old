@@ -1,5 +1,7 @@
-<?php include "partials/_header.php" ?>
-
+<?php 
+	$title = "Young Rewired State";
+	include "partials/_header.php";
+?>
 	<div class="yrs-hyperlocal">
 		<div class="logo">
 			<img src="/assets/img/yrs/hyperlocal-logo.png" alt="Hyperlocal Logo">

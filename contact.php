@@ -1,5 +1,7 @@
-<?php include "partials/_header.php" ?>
-
+<?php 
+	$title = "Contact";
+	include "partials/_header.php";
+?>
 <div class="page-title">
 	<div class="wrapper">
 		<h1>Contact Us</h1>

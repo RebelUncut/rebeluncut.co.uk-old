@@ -1,5 +1,7 @@
-<?php include "partials/_header.php" ?>
-
+<?php 
+	$title = "Thanks";
+	include "partials/_header.php";
+?>
 	<div class="page-title">
 		<div class="wrapper">
 			<h1>Thanks for Playing!</h1>
