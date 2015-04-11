@@ -1,5 +1,8 @@
-<?php include "partials/_header.php" ?>
-
+<?php 
+	$title = "Team";
+	$keywords = "key1";
+	include "partials/_header.php";
+?>
 <div class="page-title">
 	<div class="wrapper">
 		<h1>Our Team</h1>

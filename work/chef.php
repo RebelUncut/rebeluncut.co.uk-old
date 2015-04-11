@@ -1,4 +1,8 @@
-<?php include "../partials/_header.php" ?>
+<?php 
+	$title = "Case Study Title";
+	$keywords = "key1";
+	include "../partials/_header.php";
+?>
 
 	<div class="case-study">
 

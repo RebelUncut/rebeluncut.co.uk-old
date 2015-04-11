@@ -1,7 +1,12 @@
-<?php include "partials/_header.php" ?>
+<?php 
+	$title = "Home";
+	$keywords = "key1, keyword2";
+	include "partials/_header.php";
+?>
 
 	<div class="video-header">
-		<iframe width="1280" height="720" src="https://www.youtube.com/embed/3jYol3J7LnE?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>
+		<iframe src="http://www.youtube.com/embed/tcEN_E-EMUw?vq=hd1080&modestbranding=1&autoplay=1&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&autohide=0&disablekb=1" frameborder="0"></iframe>
+	</div>
 
 	<div class="section-header">
 		<h1>What we offer</h1>

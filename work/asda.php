@@ -1,4 +1,8 @@
-<?php include "../partials/_header.php" ?>
+<?php 
+	$title = "From Steak to Plate with ASDA";
+	$keywords = "key1";
+	include "../partials/_header.php";
+?>
 
 	<div class="case-study">
 
