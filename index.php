@@ -103,6 +103,16 @@
 			<img src="/assets/img/client-logos/heart.png">
 			<img src="/assets/img/client-logos/ncc.png">
 			<img src="/assets/img/client-logos/nhs.png">
+			<img src="/assets/img/client-logos/greenstem.png">
+			<img src="/assets/img/client-logos/global.png">
+			<img src="/assets/img/client-logos/keane.png">
+			<img src="/assets/img/client-logos/library.png">
+			<img src="/assets/img/client-logos/lsc.png">
+			<img src="/assets/img/client-logos/ncc.png">
+			<img src="/assets/img/client-logos/steelite.png">
+			<img src="/assets/img/client-logos/thsh.png">
+			<img src="/assets/img/client-logos/msduk.png">
+			<img src="/assets/img/client-logos/govdelivery.png">
 		</div>
 	</div>
 

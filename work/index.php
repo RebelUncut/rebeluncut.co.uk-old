@@ -46,15 +46,15 @@
 				</div>
 				</li>
 			</a>
-			<a href="/work/asda">
+			<a href="/work/pfeg">
 				<li> 
 				<div class="bg-blur-clip">
-					<div class="background" style="background-image: url(/assets/img/case-studies/asda/4.png);"></div>
+					<div class="background" style="background-image: url(/assets/img/case-studies/pfeg/4.png);"></div>
 				</div>
 				<div class="overlay"></div>
 				<div class="content">
-					<h2 class="client">Client Name</h2>
-					<h1>Title of the case study for the world to see</h1>
+					<h2 class="client">PFEG</h2>
+					<h1>Personal Finance Education</h1>
 					<p>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae reprehenderit impedit, nisi cum unde ex aut maxime non sequi voluptas ipsa odit, ea ratione! Maxime soluta quam eum cum ipsum!
 					</p>
@@ -62,15 +62,15 @@
 				</div>
 				</li>
 			</a>
-			<a href="/work/chef">
+			<a href="/work/global">
 				<li> 
 				<div class="bg-blur-clip">
-					<div class="background" style="background-image: url(/assets/img/case-studies/chef/4.png);"></div>
+					<div class="background" style="background-image: url(/assets/img/case-studies/global/4.png);"></div>
 				</div>
 				<div class="overlay"></div>
 				<div class="content">
-					<h2 class="client">Client Name</h2>
-					<h1>Title of the case study for the world to see</h1>
+					<h2 class="client">Global Radio</h2>
+					<h1>Recruitment Film</h1>
 					<p>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae reprehenderit impedit, nisi cum unde ex aut maxime non sequi voluptas ipsa odit, ea ratione! Maxime soluta quam eum cum ipsum!
 					</p>
