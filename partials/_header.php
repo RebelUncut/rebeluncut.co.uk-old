@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width">
 
     <meta name="description" content="155 Chars">
-    <meta name="keywords" content="text, text2">
+    <meta name="keywords" content="<?php echo $keywords ?>">
 
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.0/normalize.min.css">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800' rel='stylesheet' type='text/css'> 

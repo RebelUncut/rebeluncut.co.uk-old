@@ -1,5 +1,6 @@
 <?php 
 	$title = "Case Study Title";
+	$keywords = "key1";
 	include "../partials/_header.php";
 ?>
 

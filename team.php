@@ -1,5 +1,6 @@
 <?php 
 	$title = "Team";
+	$keywords = "key1";
 	include "partials/_header.php";
 ?>
 <div class="page-title">

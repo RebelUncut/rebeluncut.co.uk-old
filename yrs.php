@@ -1,5 +1,6 @@
 <?php 
 	$title = "Young Rewired State";
+	$keywords = "key1";
 	include "partials/_header.php";
 ?>
 	<div class="yrs-hyperlocal">

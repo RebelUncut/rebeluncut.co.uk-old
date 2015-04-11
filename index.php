@@ -1,10 +1,10 @@
 <?php 
 	$title = "Home";
+	$keywords = "key1, keyword2";
 	include "partials/_header.php";
 ?>
 
 	<div class="video-header">
-		<!--<iframe src="http://player.vimeo.com/video/123222803?title=0&byline=0&portrait=0&autoplay=1&loop=1" frameborder="0"></iframe>-->
 		<iframe src="http://www.youtube.com/embed/tcEN_E-EMUw?vq=hd1080&modestbranding=1&autoplay=1&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&autohide=0&disablekb=1" frameborder="0"></iframe>
 	</div>
 
