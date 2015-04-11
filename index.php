@@ -1,8 +1,7 @@
 <?php include "partials/_header.php" ?>
 
 	<div class="video-header">
-		<iframe src="http://player.vimeo.com/video/123222803?title=0&byline=0&portrait=0&autoplay=1&loop=1" frameborder="0"></iframe>
-	</div>
+		<iframe width="1280" height="720" src="https://www.youtube.com/embed/3jYol3J7LnE?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 	<div class="section-header">
 		<h1>What we offer</h1>
