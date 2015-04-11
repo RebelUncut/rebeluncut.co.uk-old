@@ -1,7 +1,7 @@
 <div class="pre-footer">
 		<img src="/assets/img/awesome.png">
 		<p>
-			Rebel Uncut Ltd is Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique fugiat nulla alias omnis odit officiis.
+			We tell client’s stories through film, animation and digital content.
 		</p>
 		<p>
 			Made with <i class="fa fa-heart"></i> in Birmingham, UK.

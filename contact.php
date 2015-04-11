@@ -35,6 +35,7 @@
 				28D Ludgate Hill, 
 				Birmingham, 
 				B3 1DX
+				Registered in England: 07608595
 			</address>
 		</section>
 	</div>

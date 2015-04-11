@@ -58,8 +58,8 @@
 				</div>
 				<div class="overlay"></div>
 				<div class="content">
-					<h2 class="client">Client Name</h2>
-					<h1>Title of the case study for the world to see</h1>
+					<h2 class="client">ABP & ASDA</h2>
+					<h1>A Steak in the Future</h1>
 					<p>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae reprehenderit impedit, nisi cum unde ex aut maxime non sequi voluptas ipsa odit, ea ratione! Maxime soluta quam eum cum ipsum!
 					</p>
@@ -74,8 +74,8 @@
 				</div>
 				<div class="overlay"></div>
 				<div class="content">
-					<h2 class="client">Client Name</h2>
-					<h1>Title of the case study for the world to see</h1>
+					<h2 class="client">Chef & Brewer</h2>
+					<h1>From Gate to Plate</h1>
 					<p>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae reprehenderit impedit, nisi cum unde ex aut maxime non sequi voluptas ipsa odit, ea ratione! Maxime soluta quam eum cum ipsum!
 					</p>

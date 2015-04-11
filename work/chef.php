@@ -1,5 +1,5 @@
 <?php 
-	$title = "Case Study Title";
+	$title = "From Gate to Plate with Chef & Brewer";
 	$keywords = "key1";
 	include "../partials/_header.php";
 ?>
@@ -8,7 +8,7 @@
 
 		<div class="page-title">
 			<div class="wrapper">
-				<h1>Case Study Title</h1>
+				<h1>From Gate to Plate with Chef & Brewer</h1>
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nisi, nesciunt earum harum vitae nulla id perferendis culpa ab. 
 				</p>
@@ -28,6 +28,7 @@
 		</section>
 
 		<section>
+			<div class="img match" style="background-image: url(/assets/img/case-studies/chef/2.jpg);"></div>
 			<div class="copy match">
 				<div class="inner">
 					<h2>Ideation</h2>
@@ -36,7 +37,6 @@
 					</p>
 				</div>
 			</div>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/chef/2.jpg);"></div>
 		</section>
 
 		<div class="case-study-quote">
@@ -60,6 +60,7 @@
 		</section>
 
 		<section>
+			<div class="img match" style="background-image: url(/assets/img/case-studies/chef/4.png);"></div>
 			<div class="copy match">
 				<div class="inner">
 					<h2>Launch</h2>
@@ -68,7 +69,6 @@
 					</p>
 				</div>
 			</div>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/chef/4.png);"></div>
 		</section>
 
 		<div class="finished-work">

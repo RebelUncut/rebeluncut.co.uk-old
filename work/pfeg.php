@@ -1,5 +1,5 @@
 <?php 
-	$title = "Global Recruitment";
+	$title = "Personal Finance Education";
 	$keywords = "key1";
 	include "../partials/_header.php";
 ?>
@@ -8,7 +8,7 @@
 
 		<div class="page-title">
 			<div class="wrapper">
-				<h1>Global Recruitment</h1>
+				<h1>Personal Finance Education</h1>
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nisi, nesciunt earum harum vitae nulla id perferendis culpa ab. 
 				</p>
@@ -24,11 +24,11 @@
 					</p>
 				</div>
 			</div>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/global/1.png);"></div>
+			<div class="img match" style="background-image: url(/assets/img/case-studies/pfeg/1.png);"></div>
 		</section>
 
 		<section>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/global/2.png);"></div>
+			<div class="img match" style="background-image: url(/assets/img/case-studies/pfeg/2.png);"></div>
 			<div class="copy match">
 				<div class="inner">
 					<h2>Ideation</h2>
@@ -56,11 +56,11 @@
 					</p>
 				</div>
 			</div>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/global/3.png);"></div>
+			<div class="img match" style="background-image: url(/assets/img/case-studies/pfeg/3.png);"></div>
 		</section>
 
 		<section>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/global/4.png);"></div>
+			<div class="img match" style="background-image: url(/assets/img/case-studies/pfeg/4.png);"></div>
 			<div class="copy match">
 				<div class="inner">
 					<h2>Launch</h2>
