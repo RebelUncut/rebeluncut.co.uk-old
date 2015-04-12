@@ -6,8 +6,8 @@
 		@include span-columns(12);
 	}
 	img {
-		@include span-columns(2.4);
-		@include omega(5n);
+		@include span-columns(1.2);
+		@include omega(10n);
 		&:nth-child(-n+5) {
 			margin-top: 0em;
 		}
