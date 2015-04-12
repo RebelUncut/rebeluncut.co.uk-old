@@ -31,7 +31,7 @@
 				width:100%;
 				position: absolute;
 				z-index: -1;
-				@include linear-gradient(rgba(lighten($color_accent, 10), .5), rgba(darken($color_accent, 10), .5));
+				@include linear-gradient(rgba(lighten($color_accent, 10), .25), rgba(darken($color_accent, 10), .25));
 			}
 			.content {
 				z-index: 1;

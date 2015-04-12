@@ -9,7 +9,7 @@
 	</div>
 
 	<div class="intro">
-		<h1>We only do awesome - challenge us.</h1>
+		<h1>We only do awesome - Challenge us.</h1>
 	</div>
 
 	<div class="services">
