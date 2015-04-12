@@ -656,7 +656,9 @@ ul.work-tiles {
           height: 33.33333vw;
           padding: 3.33333vw; }
         ul.work-tiles li:hover .tags span {
-          font-size: 1.66667vw; } }
+          font-size: 1.66667vw; }
+        ul.work-tiles li:nth-child(n+7) {
+          display: none; } }
     @media screen and (max-width: 500px) {
       ul.work-tiles li {
         width: 20vw;
@@ -669,6 +671,8 @@ ul.work-tiles {
         ul.work-tiles li:hover .tags span {
           font-size: 1vw; }
         ul.work-tiles li .filter {
+          display: none; }
+        ul.work-tiles li:nth-child(n) {
           display: none; } }
   @media screen and (min-width: 1600px) {
     ul.work-tiles {
@@ -685,6 +689,9 @@ ul.work-tiles {
         ul.work-tiles li:hover .tags span {
           font-size: 0.71429vw; } }
 
+@media screen and (max-width: 500px) {
+  .section-header.more-work {
+    display: none; } }
 .video-header {
   height: 56vw;
   width: 100vw;
@@ -872,7 +879,13 @@ ul.team {
     margin-bottom: 5vw; }
   .case-studies ul li .content p,
   .case-studies ul li .content .read-more {
-    display: none; } }
+    display: none; }
+  .case-studies ul li .bg-blur-clip .background {
+    -webkit-filter: blur(0);
+    -moz-filter: blur(0);
+    -ms-filter: blur(0);
+    -o-filter: blur(0);
+    filter: blur(0); } }
 
 .case-study .case-study-header {
   background-color: white;

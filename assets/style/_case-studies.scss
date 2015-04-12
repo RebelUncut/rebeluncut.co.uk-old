@@ -115,5 +115,10 @@
 				display: none;
 			}
 		}
+		ul li .bg-blur-clip .background {
+			@include prefix((
+				filter: blur(0)
+			), webkit moz ms o);
+		}
 	}
 }

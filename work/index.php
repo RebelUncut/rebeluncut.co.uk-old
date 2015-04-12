@@ -81,7 +81,7 @@
 		</ul>
 	</div>
 
-	<div class="section-header">
+	<div class="section-header more-work">
 		<h1>You want to see more?</h1>
 	</div>
 
