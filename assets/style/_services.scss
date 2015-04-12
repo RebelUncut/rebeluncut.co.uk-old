@@ -1,53 +1,40 @@
-$services_number: 4;
+$services_number: 3;
 $services_unit: (100 / $services_number);
 $services_size: $services_unit + vw;
 $background-color_difference: 5;
 
 .services {
+	@include outer-container;
 	ul {
 		li {
-			background: $color_accent;
-			width: $services_size;
-			padding: ($services_unit / 7.5) + vw;
-			float: left;
-			padding-top: 2em;
-			padding-bottom: 2em;
-			box-sizing: border-box;
-			i {
-				text-align: center;
-				color: white;
-				font-size: 2em;
-				display: block;
+			@include span-columns(4 of 12);
+			@include omega(3);
+			@include omega(7);
+			text-align: center;
+			margin-top: 3rem;
+			img {
+				@include span-columns(1 of 4);
+				@include shift(1.5 of 4);
+				fill: $color_accent !important;
 			}
 			h3 {
-				@include span-columns(12);
-				color: white;
-				margin-top: ($services_unit / 10) + vw;
-				text-align: center;
-				font-size: 1.5rem;
-				margin-bottom: 0;
+				@include span-columns(4 of 4);
+				margin: 1em 0 .75em 0;
+				font-size: 1.25rem;
+				color: $color_accent;
 			}
 			p {
-				@extend h3;
-				margin-top: ($services_unit / 20) + vw;
-				font-size: 1rem;
-				margin-bottom: 0;
+				@include span-columns(4 of 4);
 			}
-			@for $i from 1 through $services_number {
-				&:nth-child(#{$i}) {
-					background: darken($color_accent, $background-color_difference * $i);
-				}
+			&:nth-child(-n+3) {
+				margin-top: 6rem;
 			}
+		}
+		.rule {
+			@include span-columns(12);
+			height: 2px;
+			background: $color_accent;
+			margin: 3rem 0 1rem;
 		}
 	} 
-	@media screen and (max-width: $medium-screen) {
-		li {
-			width: 100vw !important;
-		}
-	}
-	@media screen and (max-width: $small-screen) {
-		li p {
-			display: none !important;
-		}
-	}
 }

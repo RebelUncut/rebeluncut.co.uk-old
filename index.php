@@ -8,38 +8,53 @@
 		<iframe src="http://www.youtube.com/embed/3jYol3J7LnE?vq=hd1080&modestbranding=1&autoplay=1&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&autohide=0&disablekb=1" frameborder="0"></iframe>
 	</div>
 
-	<div class="section-header">
-		<h1>What we offer</h1>
+	<div class="intro">
+		<h1>We only do awesome - challenge us.</h1>
 	</div>
 
 	<div class="services">
 		<ul>
 			<li>
-				<i class="fa fa-camera-retro"></i>
+				<img src="/assets/img/services/narrative-films.svg">
 				<h3>Narrative Film</h3>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur neque eum ipsum enim, veniam nihil repellendus aliquam dignissimos rerum delectus vitae illo iusto illum commodi. Iste accusantium eaque, tempora quae!
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 				</p>
 			</li>
 			<li>
-				<i class="fa fa-camera"></i>
+				<img src="/assets/img/services/corporate-films.svg">
 				<h3>Corporate Film</h3>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam omnis, quae incidunt saepe culpa, voluptatibus provident maiores in molestias qui earum cumque accusamus expedita illum nemo nostrum hic sequi. Sit.
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 				</p>
 			</li>
 			<li>
-				<i class="fa fa-laptop"></i>
-				<h3>Digital Media</h3>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex alias dicta inventore cumque accusamus quis neque animi magnam rerum vero, rem voluptate, aut ipsum reprehenderit maiores obcaecati quibusdam, a necessitatibus!
-				</p>
-			</li>
-			<li>
-				<i class="fa fa-rocket"></i>
+				<img src="/assets/img/services/visual-effects.svg">
 				<h3>Visual Effects</h3>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur fuga error earum a, tempore adipisci. Minima dolor quae mollitia, consectetur totam blanditiis itaque sit sequi ducimus, debitis eius illum, necessitatibus.
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+				</p>
+			</li>
+			<div class="rule"></div>
+			<li>
+				<img src="/assets/img/services/development.svg">
+				<h3>Development</h3>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+				</p>
+			</li>
+			<li>
+				<img src="/assets/img/services/training.svg">
+				<h3>Training</h3>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+				</p>
+			</li>
+			<li>
+				<img src="/assets/img/services/events.svg">
+				<h3>Events</h3>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 				</p>
 			</li>
 		</ul>

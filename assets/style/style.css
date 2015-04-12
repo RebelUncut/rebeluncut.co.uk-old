@@ -172,7 +172,6 @@ body {
 h1,
 h2,
 h3,
-.services ul li p,
 h4,
 h5,
 h6 {
@@ -537,49 +536,70 @@ header .lower-nav {
       content: "";
       display: table; }
 
-.services ul li {
-  background: #7f359c;
-  width: 25vw;
-  padding: 3.33333vw;
-  float: left;
-  padding-top: 2em;
-  padding-bottom: 2em;
-  box-sizing: border-box; }
-  .services ul li i {
+.intro h1 {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 6rem; }
+
+.services {
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto; }
+  .services::after {
+    clear: both;
+    content: "";
+    display: table; }
+  .services ul li {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 31.76157%;
     text-align: center;
-    color: white;
-    font-size: 2em;
-    display: block; }
-  .services ul li h3, .services ul li p {
+    margin-top: 3rem; }
+    .services ul li:last-child {
+      margin-right: 0; }
+    .services ul li:nth-child(3) {
+      margin-right: 0; }
+    .services ul li:nth-child(7) {
+      margin-right: 0; }
+    .services ul li img {
+      float: left;
+      display: block;
+      margin-right: 7.42297%;
+      width: 19.43277%;
+      margin-left: 40.28361%;
+      fill: #7f359c !important; }
+      .services ul li img:last-child {
+        margin-right: 0; }
+    .services ul li h3 {
+      float: left;
+      display: block;
+      margin-right: 7.42297%;
+      width: 100%;
+      margin: 1em 0 .75em 0;
+      font-size: 1.25rem;
+      color: #7f359c; }
+      .services ul li h3:last-child {
+        margin-right: 0; }
+    .services ul li p {
+      float: left;
+      display: block;
+      margin-right: 7.42297%;
+      width: 100%; }
+      .services ul li p:last-child {
+        margin-right: 0; }
+    .services ul li:nth-child(-n+3) {
+      margin-top: 6rem; }
+  .services ul .rule {
     float: left;
     display: block;
     margin-right: 2.35765%;
     width: 100%;
-    color: white;
-    margin-top: 2.5vw;
-    text-align: center;
-    font-size: 1.5rem;
-    margin-bottom: 0; }
-    .services ul li h3:last-child, .services ul li p:last-child {
+    height: 2px;
+    background: #7f359c;
+    margin: 3rem 0 1rem; }
+    .services ul .rule:last-child {
       margin-right: 0; }
-  .services ul li p {
-    margin-top: 1.25vw;
-    font-size: 1rem;
-    margin-bottom: 0; }
-  .services ul li:nth-child(1) {
-    background: #702f89; }
-  .services ul li:nth-child(2) {
-    background: #602876; }
-  .services ul li:nth-child(3) {
-    background: #512263; }
-  .services ul li:nth-child(4) {
-    background: #411b50; }
-@media screen and (max-width: 1100px) {
-  .services li {
-    width: 100vw !important; } }
-@media screen and (max-width: 500px) {
-  .services li p {
-    display: none !important; } }
 
 ul.work-tiles {
   margin-left: auto;
@@ -709,7 +729,7 @@ ul.team {
       ul.team li h2 a {
         color: #7f359c;
         margin-left: .5em; }
-    ul.team li h3, .services ul.team li p {
+    ul.team li h3 {
       font-weight: 400;
       margin-bottom: 0; }
   @media screen and (max-width: 1100px) {
@@ -1046,12 +1066,12 @@ ul.team {
       .contact .form form textarea {
         margin-bottom: 2em;
         width: 100%; }
-    .contact .form h3, .contact .form .services ul li p, .services ul li .contact .form p {
+    .contact .form h3 {
       float: left;
       display: block;
       margin-right: 4.82916%;
       width: 100%; }
-      .contact .form h3:last-child, .contact .form .services ul li p:last-child, .services ul li .contact .form p:last-child {
+      .contact .form h3:last-child {
         margin-right: 0; }
   .contact .map {
     float: left;
