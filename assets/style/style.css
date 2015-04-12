@@ -467,7 +467,12 @@ header .lower-nav {
 
 .page-title {
   padding: 4.5rem 0;
-  background-image: url(/assets/img/trianglify.png); }
+  background-image: url(/assets/img/trianglify.png);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
   .page-title h1 {
     font-size: 3rem;
     color: white;
@@ -969,7 +974,12 @@ ul.team {
       margin-bottom: 4em; }
 
 .case-study-quote {
-  background: #7f359c;
+  background-image: url(/assets/img/trianglify.png);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   display: block;
   float: left;
   width: 100%;
@@ -996,8 +1006,6 @@ ul.team {
     .case-study-quote cite:before {
       content: "-";
       margin-right: .5em; }
-  .case-study-quote.home {
-    background: #7f359c !important; }
   @media screen and (max-width: 900px) {
     .case-study-quote {
       padding: 10vw;

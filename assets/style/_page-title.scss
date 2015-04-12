@@ -1,6 +1,7 @@
 .page-title {
 	padding: 4.5rem 0;
 	background-image: url(/assets/img/trianglify.png);
+	@include prefix((background-size: cover), webkit moz ms o);
 	h1 {
 		font-size: 3rem;
 		color: white;
