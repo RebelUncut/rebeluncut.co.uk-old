@@ -137,7 +137,7 @@
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quibusdam perferendis impedit amet voluptatum veritatis, commodi nam sunt nobis eligendi numquam recusandae suscipit laudantium deserunt tempora laboriosam.
 			</p>
 		</blockquote>
-		<cite>Alun Williams, ASDA</cite>
+		<cite>Simon Forster, Global Radio</cite>
 	</div>
 
 <?php include "partials/_footer.php" ?>
