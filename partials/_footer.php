@@ -1,4 +1,5 @@
 <div class="pre-footer">
+		<h1>Want to grab a coffee and discuss your project? <a href="/contact">Let us know!</a></h1>
 		<img src="/assets/img/awesome.png">
 		<p>
 			We tell client’s stories through film, animation and digital content.

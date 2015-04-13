@@ -2,6 +2,12 @@
   width: 100%;
   background: rgb(242,242,242);
   display: inline-block;
+  h1 {
+    text-align: center;
+    padding: 4rem 2rem;
+    font-size: 1.5em;
+    background: white;
+  }
   img {
     display: block;
     margin: 5em auto;
@@ -23,6 +29,9 @@
     }
   }
   @media screen and (max-width: 900px) {
+    h1 {
+      font-size: 1rem;
+    }
     p {
       width: 80vw;
       margin-left: 10vw;
