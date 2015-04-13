@@ -35,7 +35,7 @@
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 				</p>
 			</li>
-			<div class="rule"></div>
+			<!--<div class="rule"></div>-->
 			<li>
 				<img src="/assets/img/services/development.svg">
 				<h3>Development</h3>
