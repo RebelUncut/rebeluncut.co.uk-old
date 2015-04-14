@@ -15,13 +15,13 @@
 <ul class="team">
 	<li>
 		<img src="/assets/img/team/nat.png">
-		<h2>Nat Higginbottom <a href=""><i class="fa fa-twitter"></i></a></h2>
+		<h2>Nat Higginbottom <a href="http://twitter.com/exsanguinator"><i class="fa fa-twitter"></i></a></h2>
 		<h3>Video Ninja</h3>
 	</li>
 	<li>
-		<img src="/assets/img/team/nat.png">
-		<h2>Nat Higginbottom <a href=""><i class="fa fa-twitter"></i></a></h2>
-		<h3>Video Ninja</h3>
+		<img src="/assets/img/team/julia.jpg">
+		<h2>Julia Higginbottom <a href="http://twitter.com/gabysslave"><i class="fa fa-twitter"></i></a></h2>
+		<h3>"Always Right"</h3>
 	</li>
 </ul>
 

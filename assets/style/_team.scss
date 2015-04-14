@@ -37,9 +37,6 @@ ul.team {
 	@media screen and (max-width: $small-screen) {
 		li {
 			@include span-columns(12);
-			img {
-				display: none;
-			}
 		}
 	}
 }
