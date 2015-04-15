@@ -30,6 +30,10 @@ $background-color_difference: 5;
 			&:nth-child(-n+3) {
 				margin-top: 6rem;
 			}
+			@media screen and (max-width: 900px) {
+				@include span-columns(12 of 12);
+				padding: 0 2em;
+			}
 		}
 		.rule {
 			@include span-columns(12);
