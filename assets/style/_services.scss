@@ -6,6 +6,7 @@ $background-color_difference: 5;
 .services {
 	@include outer-container;
 	ul {
+		margin-top: -3rem;
 		li {
 			@include span-columns(4 of 12);
 			@include omega(3);

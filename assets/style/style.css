@@ -543,10 +543,14 @@ header .lower-nav {
       content: "";
       display: table; }
 
-.intro h1 {
-  font-size: 2em;
-  text-align: center;
-  margin-top: 6rem; }
+.intro {
+  background: #7f359c; }
+  .intro h1 {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 0;
+    padding: 2em;
+    color: white; }
 
 .services {
   max-width: 68em;
@@ -556,57 +560,59 @@ header .lower-nav {
     clear: both;
     content: "";
     display: table; }
-  .services ul li {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 31.76157%;
-    text-align: center;
-    margin-top: 3rem; }
-    .services ul li:last-child {
-      margin-right: 0; }
-    .services ul li:nth-child(3) {
-      margin-right: 0; }
-    .services ul li:nth-child(7) {
-      margin-right: 0; }
-    .services ul li img {
+  .services ul {
+    margin-top: -3rem; }
+    .services ul li {
       float: left;
       display: block;
-      margin-right: 7.42297%;
-      width: 19.43277%;
-      margin-left: 40.28361%;
-      fill: #7f359c !important; }
-      .services ul li img:last-child {
+      margin-right: 2.35765%;
+      width: 31.76157%;
+      text-align: center;
+      margin-top: 3rem; }
+      .services ul li:last-child {
         margin-right: 0; }
-    .services ul li h3 {
+      .services ul li:nth-child(3) {
+        margin-right: 0; }
+      .services ul li:nth-child(7) {
+        margin-right: 0; }
+      .services ul li img {
+        float: left;
+        display: block;
+        margin-right: 7.42297%;
+        width: 19.43277%;
+        margin-left: 40.28361%;
+        fill: #7f359c !important; }
+        .services ul li img:last-child {
+          margin-right: 0; }
+      .services ul li h3 {
+        float: left;
+        display: block;
+        margin-right: 7.42297%;
+        width: 100%;
+        margin: 1em 0 .75em 0;
+        font-size: 1.25rem;
+        color: #7f359c; }
+        .services ul li h3:last-child {
+          margin-right: 0; }
+      .services ul li p {
+        float: left;
+        display: block;
+        margin-right: 7.42297%;
+        width: 100%; }
+        .services ul li p:last-child {
+          margin-right: 0; }
+      .services ul li:nth-child(-n+3) {
+        margin-top: 6rem; }
+    .services ul .rule {
       float: left;
       display: block;
-      margin-right: 7.42297%;
+      margin-right: 2.35765%;
       width: 100%;
-      margin: 1em 0 .75em 0;
-      font-size: 1.25rem;
-      color: #7f359c; }
-      .services ul li h3:last-child {
+      height: 2px;
+      background: #7f359c;
+      margin: 3rem 0 1rem; }
+      .services ul .rule:last-child {
         margin-right: 0; }
-    .services ul li p {
-      float: left;
-      display: block;
-      margin-right: 7.42297%;
-      width: 100%; }
-      .services ul li p:last-child {
-        margin-right: 0; }
-    .services ul li:nth-child(-n+3) {
-      margin-top: 6rem; }
-  .services ul .rule {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 100%;
-    height: 2px;
-    background: #7f359c;
-    margin: 3rem 0 1rem; }
-    .services ul .rule:last-child {
-      margin-right: 0; }
 
 ul.work-tiles {
   margin-left: auto;

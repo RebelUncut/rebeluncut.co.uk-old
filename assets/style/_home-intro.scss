@@ -1,7 +1,10 @@
 .intro {
+	background: $color_accent;
 	h1 {
 		font-size: 2em;
 		text-align: center;
-		margin-top: 6rem;
+		margin-top: 0;
+		padding: 2em;
+		color: white;
 	}
 }
