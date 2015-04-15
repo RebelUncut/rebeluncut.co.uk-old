@@ -110,7 +110,7 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/asda/logo.png">
 				<div class="tags">
-					<span>Film for R&D</span>
+					<span>Film for R&amp;D</span>
 					<span>Motion Graphics</span>
 					<span>Technical Delivery</span>
 				</div>
@@ -126,6 +126,17 @@
 				</div>
 			</div>
 		</li>
+		<li style="background-image:url(/assets/img/work-tiles/bourg/bg.png);">
+			<div class="filter">
+				<img src="/assets/img/work-tiles/bourg/logo.png">
+				<div class="tags">
+					<span>Design</span>
+					<span>Film for Web</span>
+					<span>Booking Solution</span>
+				</div>
+			</div>
+		</li>
+		</li>
 		<li style="background-image:url(/assets/img/work-tiles/dat/bg.png);">
 			<div class="filter">
 				<img src="/assets/img/work-tiles/dat/logo.png">
@@ -139,6 +150,17 @@
 		<li style="background-image:url(/assets/img/work-tiles/discovery/bg.png);">
 			<div class="filter">
 				<img src="/assets/img/work-tiles/discovery/logo.png">
+				<div class="tags">
+					<span>Concept</span>
+					<span>Film for web</span>
+					<span>Social Media Integration</span>
+				</div>
+			</div>
+		</li>
+		</li>
+		<li style="background-image:url(/assets/img/work-tiles/lemonade/bg.png);">
+			<div class="filter">
+				<img src="/assets/img/work-tiles/lemonade/logo.png">
 				<div class="tags">
 					<span>Concept</span>
 					<span>Film for web</span>
@@ -186,6 +208,16 @@
 				</div>
 			</div>
 		</li>
+		<li style="background-image:url(/assets/img/work-tiles/foc/bg.png);">
+			<div class="filter">
+				<img src="/assets/img/work-tiles/foc/logo.png">
+				<div class="tags">
+					<span>Documentary Film</span>
+					<span>Event Filming</span>
+					<span>Launch Event</span>
+				</div>
+			</div>
+		</li>
 		<li style="background-image:url(/assets/img/work-tiles/keane/bg.png);">
 			<div class="filter">
 				<img src="/assets/img/work-tiles/keane/logo.png">
@@ -209,6 +241,16 @@
 		<li style="background-image:url(/assets/img/work-tiles/lsc/bg.png);">
 			<div class="filter">
 				<img src="/assets/img/work-tiles/lsc/logo.png">
+				<div class="tags">
+					<span>Concept</span>
+					<span>Celebrity Engagement Film</span>
+					<span>Campaign Integration</span>
+				</div>
+			</div>
+		</li>
+		<li style="background-image:url(/assets/img/work-tiles/grammercy/bg.png);">
+			<div class="filter">
+				<img src="/assets/img/work-tiles/grammercy/logo.png">
 				<div class="tags">
 					<span>Concept</span>
 					<span>Celebrity Engagement Film</span>
@@ -279,6 +321,16 @@
 		<li style="background-image:url(/assets/img/work-tiles/flyover/bg.png);">
 			<div class="filter">
 				<img src="/assets/img/work-tiles/flyover/logo.png">
+				<div class="tags">
+					<span>Documentary Film</span>
+					<span>Event Coverage</span>
+					<span>Brand Assets</span>
+				</div>
+			</div>
+		</li>
+				<li style="background-image:url(/assets/img/work-tiles/yrs/bg.png);">
+			<div class="filter">
+				<img src="/assets/img/work-tiles/yrs/logo.png">
 				<div class="tags">
 					<span>Documentary Film</span>
 					<span>Event Coverage</span>
