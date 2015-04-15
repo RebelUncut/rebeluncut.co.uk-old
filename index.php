@@ -5,7 +5,7 @@
 ?>
 
 	<div class="video-header">
-		<iframe src="http://www.youtube.com/embed/3jYol3J7LnE?vq=hd1080&modestbranding=1&autoplay=1&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&autohide=0&disablekb=1" frameborder="0"></iframe>
+		<iframe src="http://www.youtube.com/embed/3jYol3J7LnE?vq=hd1080&modestbranding=1&autoplay=0&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&autohide=0&disablekb=1" frameborder="0"></iframe>
 	</div>
 
 	<div class="intro">
@@ -18,24 +18,24 @@
 				<img src="/assets/img/services/narrative-films.svg">
 				<h3>Narrative Film</h3>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+					Our passion is for high production value storytelling that doesn't hold anything back.
 				</p>
 			</li>
 			<li>
 				<img src="/assets/img/services/corporate-films.svg">
 				<h3>Corporate Film</h3>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+					We love to bring our storytelling & technical skills to create fun short form & viral projects.
 				</p>
 			</li>
 			<li>
 				<img src="/assets/img/services/visual-effects.svg">
 				<h3>Visual Effects</h3>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+					Our team are always ready to innovate and meet the challenges of the next production.
 				</p>
 			</li>
-			<!--<div class="rule"></div>-->
+			<li class="rule"></li>
 			<li>
 				<img src="/assets/img/services/development.svg">
 				<h3>Development</h3>
@@ -76,7 +76,7 @@
 					<h2 class="client">ABP & ASDA</h2>
 					<h1>A Steak in the Future</h1>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae reprehenderit impedit, nisi cum unde ex aut maxime non sequi voluptas ipsa odit, ea ratione! Maxime soluta quam eum cum ipsum!
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recus&ae reprehenderit impedit, nisi cum unde ex aut maxime non sequi voluptas ipsa odit, ea ratione! Maxime soluta quam eum cum ipsum!
 					</p>
 					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
 				</div>
