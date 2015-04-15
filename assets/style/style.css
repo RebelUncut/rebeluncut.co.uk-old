@@ -606,15 +606,6 @@ header .lower-nav {
           margin-right: 0; }
       .services ul li:nth-child(-n+3) {
         margin-top: 6rem; }
-      @media screen and (max-width: 900px) {
-        .services ul li {
-          float: left;
-          display: block;
-          margin-right: 2.35765%;
-          width: 100%;
-          padding: 0 2em; }
-          .services ul li:last-child {
-            margin-right: 0; } }
     .services ul .rule {
       float: left;
       display: block;
@@ -625,6 +616,29 @@ header .lower-nav {
       margin: 3rem 0 1rem; }
       .services ul .rule:last-child {
         margin-right: 0; }
+    @media screen and (max-width: 900px) {
+      .services ul {
+        margin-top: 0; }
+        .services ul li {
+          float: left;
+          display: block;
+          margin-right: 2.35765%;
+          width: 100%;
+          padding: 0 2em; }
+          .services ul li:last-child {
+            margin-right: 0; }
+          .services ul li img {
+            float: left;
+            display: block;
+            margin-right: 2.35765%;
+            width: 16.83441%;
+            margin-left: 41.5828%; }
+            .services ul li img:last-child {
+              margin-right: 0; }
+          .services ul li:nth-child(-n+3) {
+            margin-top: 3rem; }
+        .services ul .rule {
+          display: none; } }
 
 ul.work-tiles {
   margin-left: auto;
