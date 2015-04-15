@@ -90,9 +90,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/apprenticeships/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Concept</span>
+					<span>Film for web</span>
+					<span>Social Media Integration</span>
 				</div>
 			</div>
 		</li>
@@ -100,9 +100,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/army/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Concept</span>
+					<span>Film for web</span>
+					<span>Social Media Integration</span>
 				</div>
 			</div>
 		</li>
@@ -110,9 +110,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/asda/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Film for R&D</span>
+					<span>Motion Graphics</span>
+					<span>Technical Delivery</span>
 				</div>
 			</div>
 		</li>
@@ -120,9 +120,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/capitaltv/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Press Film</span>
+					<span>Worldwide Press Launch</span>
+					<span>Campaign Integration</span>
 				</div>
 			</div>
 		</li>
@@ -130,9 +130,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/dat/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Concept</span>
+					<span>Film for Web</span>
+					<span>Motion Graphics</span>
 				</div>
 			</div>
 		</li>
@@ -140,9 +140,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/discovery/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Concept</span>
+					<span>Film for web</span>
+					<span>Social Media Integration</span>
 				</div>
 			</div>
 		</li>
@@ -150,9 +150,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/global/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Internal Comms Film</span>
+					<span>Animation</span>
+					<span>Motion Graphics</span>
 				</div>
 			</div>
 		</li>
@@ -160,9 +160,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/greenstem/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Concept</span>
+					<span>Bespoke Illustration</span>
+					<span>Motion Graphics</span>
 				</div>
 			</div>
 		</li>
@@ -170,9 +170,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/hearttv/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Press Film</span>
+					<span>Worldwide Press Launch</span>
+					<span>Campaign Integration</span>
 				</div>
 			</div>
 		</li>
@@ -180,9 +180,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/hom/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Documentary Film</span>
+					<span>Event Filming</span>
+					<span>Launch Event</span>
 				</div>
 			</div>
 		</li>
@@ -190,9 +190,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/keane/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Concept Pitch Film</span>
+					<span>Motion Graphics</span>
+					<span>Presentation Design</span>
 				</div>
 			</div>
 		</li>
@@ -200,9 +200,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/library/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>News Film Coverage</span>
+					<span>Internal Assets Creation</span>
+					<span>Campaign Integration</span>
 				</div>
 			</div>
 		</li>
@@ -210,9 +210,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/lsc/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Concept</span>
+					<span>Celebrity Engagement Film</span>
+					<span>Campaign Integration</span>
 				</div>
 			</div>
 		</li>
@@ -220,9 +220,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/nhs/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Concept</span>
+					<span>Film for web</span>
+					<span>Social Media Integration</span>
 				</div>
 			</div>
 		</li>
@@ -230,9 +230,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/pfeg/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Concept</span>
+					<span>Bespoke Illustration</span>
+					<span>Web Asset Integration</span>
 				</div>
 			</div>
 		</li>
@@ -240,9 +240,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/retail/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Campaign Engagement Films</span>
+					<span>Event Filming</span>
+					<span>Web Asset Integration</span>
 				</div>
 			</div>
 		</li>
@@ -250,9 +250,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/stavros/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Concept</span>
+					<span>Celebrity Engagement Film</span>
+					<span>Film for Cinema</span>
 				</div>
 			</div>
 		</li>
@@ -260,9 +260,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/steelite/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Concept</span>
+					<span>International Brand Relaunch</span>
+					<span>Event Filming</span>
 				</div>
 			</div>
 		</li>
@@ -270,9 +270,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/thsh/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Concept</span>
+					<span>Documentary Film</span>
+					<span>Stakeholder Engagement</span>
 				</div>
 			</div>
 		</li>
@@ -280,9 +280,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/flyover/logo.png">
 				<div class="tags">
-					<span>Tag 1</span>
-					<span>Tag 2</span>
-					<span>Tag 3</span>
+					<span>Documentary Film</span>
+					<span>Event Coverage</span>
+					<span>Brand Assets</span>
 				</div>
 			</div>
 		</li>
