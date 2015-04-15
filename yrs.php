@@ -7,7 +7,7 @@
 		<div class="logo">
 			<img src="/assets/img/yrs/hyperlocal-logo.png" alt="Hyperlocal Logo">
 		</div>
-		<p class="intro">
+		<p class="intro-yrs">
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti atque cum eligendi incidunt ducimus reiciendis, quis! Aspernatur praesentium eaque ipsum minus mollitia, ipsam, soluta explicabo, facilis qui alias delectus eligendi. <a href="/contact">Find out more by contacting us</a>.
 		</p>
 
