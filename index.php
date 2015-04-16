@@ -9,7 +9,7 @@
 	</div>
 
 	<div class="intro">
-		<h1>We only do awesome - Challenge us.</h1>
+		<h1>We tell client’s stories through film, animation and digital content.</h1>
 	</div>
 
 	<div class="services">
