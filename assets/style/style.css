@@ -1024,6 +1024,21 @@ ul.team {
       margin-top: 0em; }
     .client-logos img:nth-child(n+5) {
       margin-bottom: 4em; }
+  @media screen and (max-width: 900px) {
+    .client-logos {
+      padding-left: 3rem;
+      padding-right: 3rem; }
+      .client-logos img {
+        float: left;
+        display: block;
+        margin-right: 2.35765%;
+        width: 18.11388%; }
+        .client-logos img:last-child {
+          margin-right: 0; }
+        .client-logos img:nth-child(5n) {
+          margin-right: 0; }
+        .client-logos img:nth-child(5n+1) {
+          clear: left; } }
 
 .case-study-quote {
   background-image: url(/assets/img/trianglify.png);

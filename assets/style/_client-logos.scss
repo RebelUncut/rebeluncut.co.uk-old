@@ -15,4 +15,12 @@
 			margin-bottom: 4em;
 		}
 	}
+	@media screen and (max-width: 900px) {
+		padding-left: 3rem;
+		padding-right: 3rem;
+		img {
+			@include span-columns(2.4);
+			@include omega(5n);
+		}
+	}
 }
