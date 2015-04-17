@@ -72,7 +72,7 @@
 		</section>
 
 		<div class="finished-work">
-			<iframe src="http://player.vimeo.com/video/47125661?title=0&byline=0&" frameborder="0"></iframe>
+			<iframe src="http://www.youtube.com/embed/AN3roUv4Y40?vq=hd1080&modestbranding=1&autoplay=0&controls=1&fs=0&iv_load_policy=3&rel=0&showinfo=0&autohide=0&disablekb=1" frameborder="0"></iframe>
 		</div>
 
 	</div>
