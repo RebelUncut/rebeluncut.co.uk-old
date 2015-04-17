@@ -37,7 +37,7 @@
 				</li>
 			</ul>
 			<div class="yrs">
-				<a href="/yrs">
+				<a href="/talent">
 					We're proud to support young local talent from Birmingham with Young Rewired State &amp; CoderDojo. Find out more by clicking here.
 				</a>
 			</div>

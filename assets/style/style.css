@@ -1,3 +1,4 @@
+@charset "UTF-8";
 html {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1242,6 +1243,46 @@ ul.team {
         margin-right: 0; }
       .yrs-hyperlocal ul.roles li:first-child {
         margin-bottom: 0; } }
+
+.talent-footer {
+  padding: 4.5rem 0;
+  background-image: url(/assets/img/trianglify.png);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  float: left;
+  width: 100%; }
+  .talent-footer > * {
+    max-width: 68em;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-align: center; }
+    .talent-footer > *::after {
+      clear: both;
+      content: "";
+      display: table; }
+  .talent-footer h2 {
+    font-size: 1.25em; }
+  .talent-footer ul li {
+    display: inline; }
+    .talent-footer ul li:after {
+      content: "•";
+      margin-left: .5em;
+      margin-right: .5em; }
+    .talent-footer ul li:last-child:after {
+      content: "";
+      margin-left: 0;
+      margin-right: 0; }
+  .talent-footer .links {
+    margin-top: .5em; }
+    .talent-footer .links a {
+      color: white;
+      text-decoration: underline;
+      margin-left: 1em;
+      margin-right: 1em; }
 
 body {
   margin: 0;
