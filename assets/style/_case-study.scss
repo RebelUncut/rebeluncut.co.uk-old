@@ -15,7 +15,7 @@
 			font-size: 1.5em;
 			margin-top: 1em;
 		}
-		@media screen and (max-width: 900px) {
+		@media screen and (max-width: $medium-screen) {
 			padding: 3em;
 			h1 {
 				font-size: 1.5em;
@@ -67,16 +67,18 @@
 				}
 			}
 		}
-		@media screen and (max-width: 900px) {
+		@media screen and (max-width: $medium-screen) {
 			.copy,
 			.img {
-				width: 100vw;
+				
 			}
 			.copy {
+				width: 100vw;
+				padding: $side-padding;
 				.inner {
-					width: 80vw;
-					margin: 10vw;
-					padding: 5vw;
+					margin: 0;
+					padding: $side-padding;
+					width: 100%;
 				}
 			}
 			&:nth-child(2n) .img {
@@ -93,12 +95,6 @@
 			height: 100vh;
 			margin-left: 0;
 			float: left;
-		}
-		@media screen and (max-width: 1100px) {
-			iframe {
-				width: 100vw;
-				height: 56vw;
-			}
 		}
 	}
 	+ footer {
