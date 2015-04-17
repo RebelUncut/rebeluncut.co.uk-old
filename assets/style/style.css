@@ -669,27 +669,25 @@ ul.work-tiles {
     ul.work-tiles li img,
     ul.work-tiles li .tags {
       display: none; }
-    ul.work-tiles li:hover {
-      cursor: pointer; }
-      ul.work-tiles li:hover .filter {
-        opacity: 1;
-        -webkit-transition: all 0.15s ease-out 0s;
-        -moz-transition: all 0.15s ease-out 0s;
-        transition: all 0.15s ease-out 0s; }
-      ul.work-tiles li:hover img {
+    ul.work-tiles li:hover .filter {
+      opacity: 1;
+      -webkit-transition: all 0.15s ease-out 0s;
+      -moz-transition: all 0.15s ease-out 0s;
+      transition: all 0.15s ease-out 0s; }
+    ul.work-tiles li:hover img {
+      display: block;
+      opacity: 1;
+      width: 100%; }
+    ul.work-tiles li:hover .tags {
+      display: block;
+      position: absolute;
+      bottom: 2vw; }
+      ul.work-tiles li:hover .tags span {
+        color: white;
         display: block;
-        opacity: 1;
-        width: 100%; }
-      ul.work-tiles li:hover .tags {
-        display: block;
-        position: absolute;
-        bottom: 2vw; }
-        ul.work-tiles li:hover .tags span {
-          color: white;
-          display: block;
-          font-weight: bold;
-          margin-top: .2em;
-          font-size: 1vw; }
+        font-weight: bold;
+        margin-top: .2em;
+        font-size: 1vw; }
     @media screen and (max-width: 900px) {
       ul.work-tiles li {
         width: 33.33333vw;
@@ -1049,7 +1047,7 @@ ul.team {
   display: block;
   float: left;
   width: 100%;
-  padding: 4rem 2rem;
+  padding: 4rem 6rem;
   font-size: 1.5em; }
   .case-study-quote blockquote {
     color: white;

@@ -39,7 +39,6 @@ ul.work-tiles {
 			display: none;
 		}
 		&:hover {
-			cursor: pointer;
 			.filter {
 				opacity: 1;
 				@include transition;
