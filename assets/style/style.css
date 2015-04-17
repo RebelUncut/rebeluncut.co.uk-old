@@ -420,7 +420,7 @@ header .lower-nav {
     padding: .5rem 1rem; }
     header .lower-nav .menu-button:hover {
       cursor: pointer; }
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 900px) {
   header nav ul,
   header .yrs {
     padding-left: 1.5rem;
@@ -455,9 +455,7 @@ header .lower-nav {
     margin: 5em auto; }
   .pre-footer p {
     margin-bottom: 1em;
-    text-align: center;
-    width: 60vw;
-    margin-left: 20vw; }
+    text-align: center; }
     .pre-footer p i {
       color: #7f359c; }
     .pre-footer p a i {
@@ -469,11 +467,11 @@ header .lower-nav {
     .pre-footer h1 {
       font-size: 1rem; }
     .pre-footer p {
-      width: 80vw;
-      margin-left: 10vw; } }
+      width: 100%;
+      padding: 0 2rem; } }
 
 .page-title {
-  padding: 4.5rem 0;
+  padding: 4rem 0;
   background-image: url(/assets/img/trianglify.png);
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -493,7 +491,7 @@ header .lower-nav {
     width: 100%;
     margin-bottom: 0;
     color: white; }
-  @media screen and (max-width: 1100px) {
+  @media screen and (max-width: 900px) {
     .page-title {
       padding: 2em 1em; }
       .page-title h1 {
@@ -517,12 +515,16 @@ header .lower-nav {
     border-bottom: 2px solid #7f359c;
     float: left;
     padding-bottom: 1rem; }
-    @media screen and (max-width: 1100px) {
+    @media screen and (max-width: 900px) {
       .section-header h1 {
-        margin: 2em; } }
+        margin: 2rem;
+        margin-top: 2em;
+        margin-bottom: 2em; } }
     @media screen and (max-width: 500px) {
       .section-header h1 {
-        margin: 2em;
+        margin: 2rem;
+        margin-top: 2em;
+        margin-bottom: 2em;
         font-size: 1.5rem;
         padding-bottom: .5rem; } }
 
@@ -548,9 +550,10 @@ header .lower-nav {
   background: #7f359c; }
   .intro h1 {
     font-size: 1.5em;
+    line-height: 1.5em;
     text-align: center;
     margin-top: 0;
-    padding: 4rem;
+    padding: 2rem;
     color: white; }
     @media screen and (max-width: 900px) {
       .intro h1 {
@@ -686,7 +689,7 @@ ul.work-tiles {
           font-weight: bold;
           margin-top: .2em;
           font-size: 1vw; }
-    @media screen and (max-width: 1100px) {
+    @media screen and (max-width: 900px) {
       ul.work-tiles li {
         width: 33.33333vw;
         height: 33.33333vw;
@@ -779,7 +782,7 @@ ul.team {
     ul.team li h3 {
       font-weight: 400;
       margin-bottom: 0; }
-  @media screen and (max-width: 1100px) {
+  @media screen and (max-width: 900px) {
     ul.team {
       padding: 0 1.5rem; }
       ul.team li {
@@ -843,7 +846,7 @@ ul.team {
     background-image: linear-gradient(rgba(157, 68, 192, 0.25), rgba(96, 40, 118, 0.25)); }
   .case-studies ul li .content {
     z-index: 1;
-    padding: 2.5vw; }
+    padding: 2rem; }
     .case-studies ul li .content h2.client {
       padding-bottom: .75em;
       border-bottom: 1px solid white;
@@ -863,9 +866,9 @@ ul.team {
       width: 100%;
       display: block;
       float: left;
-      margin-bottom: 2.5vw;
       font-weight: bold;
-      margin-top: .75em; }
+      margin-top: .75em;
+      margin-bottom: 2rem; }
       .case-studies ul li .content .read-more i {
         margin-left: 1em;
         font-size: .8em;
@@ -892,7 +895,7 @@ ul.team {
   padding: 2em; }
   .case-studies a.more:last-child {
     margin-right: 0; }
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 900px) {
   .case-studies ul li {
     width: 100vw; }
     .case-studies ul li .content {
@@ -1027,8 +1030,7 @@ ul.team {
       margin-bottom: 4em; }
   @media screen and (max-width: 900px) {
     .client-logos {
-      padding-left: 3rem;
-      padding-right: 3rem; }
+      padding: 2rem; }
       .client-logos img {
         float: left;
         display: block;
@@ -1051,7 +1053,7 @@ ul.team {
   display: block;
   float: left;
   width: 100%;
-  padding: 5em;
+  padding: 4rem 2rem;
   font-size: 1.5em; }
   .case-study-quote blockquote {
     color: white;
@@ -1076,7 +1078,7 @@ ul.team {
       margin-right: .5em; }
   @media screen and (max-width: 900px) {
     .case-study-quote {
-      padding: 10vw;
+      padding: 4rem;
       font-size: 1em; } }
 
 .contact {
@@ -1200,7 +1202,7 @@ ul.team {
       border-bottom: 2px solid #7f359c;
       font-size: 2rem;
       margin-bottom: 2rem; }
-      @media screen and (max-width: 1100px) {
+      @media screen and (max-width: 900px) {
         .yrs-hyperlocal ul.roles li h2 {
           margin: 1.5rem; } }
       @media screen and (max-width: 500px) {
@@ -1219,10 +1221,10 @@ ul.team {
     .yrs-hyperlocal ul.roles li p {
       width: 100%;
       margin-top: 2rem; }
-      @media screen and (max-width: 1100px) {
+      @media screen and (max-width: 900px) {
         .yrs-hyperlocal ul.roles li p {
           padding: 1.5rem; } }
-  @media screen and (max-width: 1100px) {
+  @media screen and (max-width: 900px) {
     .yrs-hyperlocal .logo,
     .yrs-hyperlocal .intro {
       margin-left: 1.5em;
@@ -1245,7 +1247,7 @@ ul.team {
         margin-bottom: 0; } }
 
 .talent-footer {
-  padding: 4.5rem 0;
+  padding: 4rem 0;
   background-image: url(/assets/img/trianglify.png);
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1283,6 +1285,13 @@ ul.team {
       text-decoration: underline;
       margin-left: 1em;
       margin-right: 1em; }
+  @media screen and (max-width: 900px) {
+    .talent-footer {
+      padding: 2rem; }
+      .talent-footer .links {
+        margin-top: 1em; }
+        .talent-footer .links a {
+          display: block; } }
 
 body {
   margin: 0;

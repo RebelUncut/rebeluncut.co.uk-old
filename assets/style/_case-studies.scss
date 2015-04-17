@@ -35,7 +35,7 @@
 			}
 			.content {
 				z-index: 1;
-				padding: 2.5vw;
+				padding: $side-padding;
 				h2.client {
 					padding-bottom: .75em;
 					border-bottom: 1px solid white;
@@ -58,9 +58,9 @@
 					width: 100%;
 					display: block;
 					float: left;
-					margin-bottom: 2.5vw;
 					font-weight: bold;
 					margin-top: .75em;
+					margin-bottom: $side-padding;
 					i {
 						margin-left: 1em;
 						font-size: .8em;

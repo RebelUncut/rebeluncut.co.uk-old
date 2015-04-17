@@ -9,11 +9,7 @@
 	</div>
 
 	<div class="intro">
-<<<<<<< HEAD
-		<h1>We only do awesome. Challenge us.</h1>
-=======
 		<h1>We tell client’s stories through film, animation and digital content.</h1>
->>>>>>> 1cdde7015012c0c5d3b1ca4b7df0aa789ba973ff
 	</div>
 
 	<div class="services">
