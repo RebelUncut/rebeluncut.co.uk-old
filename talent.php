@@ -82,8 +82,8 @@
 				<li>Week-long Festival of Code July 27 - August 2 2015 (Venue TBC)</li>
 			</ul>
 			<div class="links">
-				<a href="">More about CoderDojo</a>
-				<a href="">More about Young Rewired State</a>
+				<a href="https://coderdojo.com/">More about CoderDojo (New Coders)</a>
+				<a href="http://hl.yrs.io/centres/25">More about Young Rewired State (Existing Coders)</a>
 			</div>
 		</div>
 

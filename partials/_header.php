@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width">
 
     <meta name="description" content="155 Chars">
-    <meta name="keywords" content="<?php echo $keywords ?>">
+    <meta name="keywords" content="video birmingham,production birmingham,video production birmingham,corporate video birmingham,film production birmingham,film production london film production UK,post production birmingham,production company birmingham,TV production,advertising,web video,Live video,streaming,video streaming,web design,digital training,film production west midlands,video production west midlands,events,professional,promotional videos,studio,production,Conference Filming,Event Video,Event Filming,Seminar Filming,Cinema Adverts,Product Demonstration Video,Promo Video,Animation,Motion Graphics,<?php echo $keywords ?>">
 
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.0/normalize.min.css">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800' rel='stylesheet' type='text/css'> 
