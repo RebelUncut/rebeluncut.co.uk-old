@@ -953,6 +953,10 @@ ul.team {
     margin-bottom: 0;
     width: 100%;
     display: inline-block; }
+    .case-study section .copy p i {
+      display: block;
+      margin-top: 1em;
+      font-size: 0.8em; }
 .case-study section .img {
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -977,7 +981,7 @@ ul.team {
       margin: 0;
       padding: 2rem;
       width: 100%; }
-  .case-study section:nth-child(2n) .img {
+  .case-study section:nth-child(2) .img {
     display: none; } }
 .case-study .finished-work {
   background: #7f359c;

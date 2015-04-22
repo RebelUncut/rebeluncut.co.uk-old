@@ -46,6 +46,11 @@
 				margin-bottom: 0;
 				width: 100%;
 				display: inline-block;
+				i {
+					display: block;
+					margin-top: 1em;
+					font-size: 0.8em;
+				}
 			}
 		}
 		.img {
@@ -68,10 +73,6 @@
 			}
 		}
 		@media screen and (max-width: $medium-screen) {
-			.copy,
-			.img {
-				
-			}
 			.copy {
 				width: 100vw;
 				padding: $side-padding;
@@ -81,7 +82,7 @@
 					width: 100%;
 				}
 			}
-			&:nth-child(2n) .img {
+			&:nth-child(2) .img {
 				display: none;
 			}
 		}

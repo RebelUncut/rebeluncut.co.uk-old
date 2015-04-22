@@ -8,7 +8,7 @@
 
 		<div class="page-title">
 			<div class="wrapper">
-				<h1>From Steak to Plate with ASDA</h1>
+				<h1>Shorts &amp; Features</h1>
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nisi, nesciunt earum harum vitae nulla id perferendis culpa ab. 
 				</p>
@@ -18,22 +18,22 @@
 		<section>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Conception</h2>
+					<h2>The Vanishing Man</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.<br><i>Completed Short - Feature in Development.</i>
 					</p>
 				</div>
 			</div>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/asda/1.png);"></div>
+			<div class="img match" style="background-image: url(/assets/img/films/vanishingman.png);"></div>
 		</section>
 
 		<section>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/asda/2.png);"></div>
+			<div class="img match" style="background-image: url(/assets/img/films/500miles.jpg);"></div>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Ideation</h2>
+					<h2>500 Miles North</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit. <i>Complete.</i>
 					</p>
 				</div>
 			</div>
@@ -42,7 +42,7 @@
 		<div class="case-study-quote">
 			<blockquote>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum quod iste debitis aliquam nihil delectus explicabo quibusdam enim deleniti autem, tempore, quis sint mollitia laudantium porro atque unde, saepe laborum.
+					We pride ourselves on blah blah something Julia said.
 				</p>
 			</blockquote>
 		</div>
@@ -50,30 +50,77 @@
 		<section>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Filming</h2>
+					<h2>Turbulence</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.<i>Complete &amp; Distributed.</i>
 					</p>
 				</div>
 			</div>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/asda/3.png);"></div>
+			<div class="img match" style="background-image: url(/assets/img/films/turbulence.jpg);"></div>
 		</section>
 
 		<section>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/asda/4.png);"></div>
+			<div class="img match" style="background-image: url(/assets/img/films/offering.jpg);"></div>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Launch</h2>
+					<h2>The Offering</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.<i>In Development.</i>
 					</p>
 				</div>
 			</div>
 		</section>
 
-		<div class="finished-work">
-			<iframe src="http://www.youtube.com/embed/UMbNRTGwDJo?vq=hd1080&modestbranding=1&autoplay=0&controls=1&fs=0&iv_load_policy=3&rel=0&showinfo=0&autohide=0&disablekb=1" frameborder="0"></iframe>
-		</div>
+		<div class="section-header more-work">
+		<h1>Old Stuff</h1>
+	</div>
+
+	<ul class="work-tiles">
+		<li style="background-image:url(/assets/img/films/stained.png);">
+			<div class="filter">
+				<div class="tags">
+					<span>STAINED</span>
+					<span>Short Film</span>
+					<span>Social Media Integration</span>
+				</div>
+			</div>
+		</li>
+		<li style="background-image:url(/assets/img/films/5soldiers.png);">
+			<div class="filter">
+				<div class="tags">
+					<span><B>5 SOLDIERS</B></span>
+					<span>Dance Film</span>
+					<span>Social Media Integration</span>
+				</div>
+			</div>
+		</li>
+		<li style="background-image:url(/assets/img/films/opencall.png);">
+			<div class="filter">
+				<div class="tags">
+					<span>OPEN CALL</span>
+					<span>Short Film</span>
+					<span>Technical Delivery</span>
+				</div>
+			</div>
+		</li>
+		<li style="background-image:url(/assets/img/work-tiles/capitaltv/bg.png);">
+			<div class="filter">
+				<div class="tags">
+					<span>Press Film</span>
+					<span>Worldwide Press Launch</span>
+					<span>Campaign Integration</span>
+				</div>
+			</div>
+		</li>
+		<li style="background-image:url(/assets/img/work-tiles/bourg/bg.png);">
+			<div class="filter">
+				<img src="/assets/img/work-tiles/bourg/logo.png">
+				<div class="tags">
+					<span>Design</span>
+					<span>Film for Web</span>
+					<span>Booking Solution</span>
+				</div>
+			</div>
 
 	</div>
 
