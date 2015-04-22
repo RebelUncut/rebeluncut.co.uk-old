@@ -14,14 +14,79 @@
 
 <ul class="team">
 	<li>
-		<img src="/assets/img/team/nat.png">
-		<h2>Nat Higginbottom <a href="http://twitter.com/exsanguinator"><i class="fa fa-twitter"></i></a></h2>
-		<h3>Video Ninja</h3>
+		<img src="/assets/img/team/julia.jpg">
+		<h2>Julia Higginbottom</h2>
+		<h3>Producer</h3>
 	</li>
 	<li>
-		<img src="/assets/img/team/julia.jpg">
-		<h2>Julia Higginbottom <a href="http://twitter.com/gabysslave"><i class="fa fa-twitter"></i></a></h2>
-		<h3>"Always Right"</h3>
+		<img src="/assets/img/team/nat.png">
+		<h2>Nat Higginbottom</h2>
+		<h3>Producer - Editor</h3>
+	</li>
+	<li>
+		<img src="/assets/img/team/kevin.jpg">
+		<h2>Kevin Lewis</h2>
+		<h3>Developer</h3>
+	</li>
+	<li>
+		<img src="/assets/img/team/andrew.jpg">
+		<h2>Andrew Sanyaolu</h2>
+		<h3>Developer</h3>
+	</li>
+	<li>
+		<img src="/assets/img/team/rob.jpg">
+		<h2>Rob Brown</h2>
+		<h3>Director</h3>
+	</li>
+	<li>
+		<img src="/assets/img/team/sima.jpg">
+		<h2>Sima Gonsai</h2>
+		<h3>Director</h3>
+	</li>
+	<li>
+		<img src="/assets/img/team/clare.jpg">
+		<h2>Clare Edwards</h2>
+		<h3>Producer</h3>
+	</li>
+	<li>
+		<img src="/assets/img/team/carl.jpg">
+		<h2>Carl Jordan</h2>
+		<h3>Cameraman</h3>
+	</li>
+	<li>
+		<img src="/assets/img/team/sam.jpg">
+		<h2>Sam Freeman</h2>
+		<h3>Visual Effects</h3>
+	</li>
+	<li>
+		<img src="/assets/img/team/steve.jpg">
+		<h2>Stephen Atterbury</h2>
+		<h3>Visual Effects</h3>
+	</li>
+	<li>
+		<img src="/assets/img/team/phil.jpg">
+		<h2>Phil Mountford</h2>
+		<h3>Composer</h3>
+	</li>
+	<li>
+		<img src="/assets/img/team/danny.jpg">
+		<h2>Danny Smith</h2>
+		<h3>Writer</h3>
+	</li>
+	<li>
+		<img src="/assets/img/team/billy.png">
+		<h2>Billy Bannister</h2>
+		<h3>Location Sound</h3>
+	</li>
+	<li>
+		<img src="/assets/img/team/caroline.jpg">
+		<h2>Caroline Beavon</h2>
+		<h3>Data Visualisation</h3>
+	</li>
+	<li>
+		<img src="/assets/img/team/dick.jpg">
+		<h2>"Dick"</h2>
+		<h3>Office Mascot</h3>
 	</li>
 </ul>
 

@@ -24,11 +24,11 @@
 					</p>
 				</div>
 			</div>
-			<div class="img match" style="background-image: url(assets/img/case-studies/global/1.png);"></div>
+			<div class="img match" style="background-image: url(assets/img/talent/1.png);"></div>
 		</section>
 
 		<section>
-			<div class="img match" style="background-image: url(assets/img/case-studies/global/2.png);"></div>
+			<div class="img match" style="background-image: url(assets/img/talent/2.png);"></div>
 			<div class="copy match">
 				<div class="inner">
 					<h2>What Rebel Uncut are Doing</h2>
@@ -56,11 +56,11 @@
 					</p>
 				</div>
 			</div>
-			<div class="img match" style="background-image: url(assets/img/case-studies/global/3.png);"></div>
+			<div class="img match" style="background-image: url(assets/img/talent/3.png);"></div>
 		</section>
 
 		<section>
-			<div class="img match" style="background-image: url(assets/img/case-studies/global/4.png);"></div>
+			<div class="img match" style="background-image: url(assets/img/talent/4.png);"></div>
 			<div class="copy match">
 				<div class="inner">
 					<h2>Young Rewired State Hyperlocal</h2>

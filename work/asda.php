@@ -8,7 +8,7 @@
 
 		<div class="page-title">
 			<div class="wrapper">
-				<h1>From Steak to Plate with ASDA</h1>
+				<h1>A Steak in the Future with ASDA</h1>
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nisi, nesciunt earum harum vitae nulla id perferendis culpa ab. 
 				</p>

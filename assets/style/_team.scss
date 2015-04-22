@@ -2,8 +2,8 @@ ul.team {
 	@include outer-container;
 	margin-top: 3em;
 	li {
-		@include span-columns(3);
-		@include omega(4n);
+		@include span-columns(2.4);
+		@include omega(5n);
 		text-align: center;
 		margin-bottom: 3rem;
 		img {
