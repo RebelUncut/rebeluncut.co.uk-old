@@ -7,7 +7,7 @@
 	<div class="wrapper">
 		<h1>Our Team</h1>
 		<p>
-			We are a small, neat core team and a collective of professional freelance family.
+			We are a small core team with an extended freelance family of professionals, allowing us to create a team tailored to your project needs.
 		</p>
 	</div>
 </div>

@@ -1,9 +1,9 @@
 .page-title {
-	padding: ($side-padding * 2) $side-padding;
+	padding: ($side-padding * 1.5) $side-padding;
 	background-image: url(/assets/img/trianglify.png);
 	@include prefix((background-size: cover), webkit moz ms o);
 	h1 {
-		font-size: 3rem;
+		font-size: 2rem;
 		color: white;
 		font-weight: 800;
 		letter-spacing: -.05em;

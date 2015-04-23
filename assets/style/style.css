@@ -471,7 +471,7 @@ header .lower-nav {
       padding: 0 2rem; } }
 
 .page-title {
-  padding: 4rem 2rem;
+  padding: 3rem 2rem;
   background-image: url(/assets/img/trianglify.png);
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -479,7 +479,7 @@ header .lower-nav {
   -o-background-size: cover;
   background-size: cover; }
   .page-title h1 {
-    font-size: 3rem;
+    font-size: 2rem;
     color: white;
     font-weight: 800;
     letter-spacing: -.05em;
@@ -956,7 +956,7 @@ ul.team {
     .case-study section .copy p i {
       display: block;
       margin-top: 1em;
-      font-size: 0.8em; }
+      font-size: 0.9em; }
 .case-study section .img {
   -webkit-background-size: cover;
   -moz-background-size: cover;
