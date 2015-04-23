@@ -131,8 +131,8 @@
 				<img src="/assets/img/work-tiles/bourg/logo.png">
 				<div class="tags">
 					<span>Design</span>
-					<span>Film for Web</span>
-					<span>Booking Solution</span>
+					<span>Development &amp; CMS</span>
+					<span>Online Booking Solution</span>
 				</div>
 			</div>
 		</li>
@@ -162,9 +162,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/lemonade/logo.png">
 				<div class="tags">
-					<span>Concept</span>
-					<span>Film for web</span>
-					<span>Social Media Integration</span>
+					<span>Design</span>
+					<span>Development</span>
+					<span>Digital Consultancy</span>
 				</div>
 			</div>
 		</li>
@@ -212,9 +212,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/foc/logo.png">
 				<div class="tags">
-					<span>Documentary Film</span>
-					<span>Event Filming</span>
-					<span>Launch Event</span>
+					<span>Design</span>
+					<span>Development</span>
+					<span>Consultancy</span>
 				</div>
 			</div>
 		</li>
@@ -252,9 +252,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/grammercy/logo.png">
 				<div class="tags">
-					<span>Concept</span>
-					<span>Celebrity Engagement Film</span>
-					<span>Campaign Integration</span>
+					<span>Design</span>
+					<span>Development &amp; CMS</span>
+					<span>Online Booking Solution</span>
 				</div>
 			</div>
 		</li>
@@ -332,9 +332,9 @@
 			<div class="filter">
 				<img src="/assets/img/work-tiles/yrs/logo.png">
 				<div class="tags">
-					<span>Documentary Film</span>
-					<span>Event Coverage</span>
-					<span>Brand Assets</span>
+					<span>Design</span>
+					<span>Development</span>
+					<span>Consultancy</span>
 				</div>
 			</div>
 		</li>
