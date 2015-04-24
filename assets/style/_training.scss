@@ -82,6 +82,9 @@
 		@media screen and (max-width: $small-screen) {
 			> li > ul.topics li {
 				@include span-columns(12 of 12);
+				&:nth-child(1n) {
+					@include shift(0);
+				}
 			}
 		}
 	}

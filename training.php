@@ -181,6 +181,7 @@
 					</div>
 				</ul>
 				<ul class="testimonial">
+					<h3>What they say...</h3>
 					<div class="content">
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium officiis tempore minima aliquid, dolores beatae maiores, eum cumque necessitatibus.

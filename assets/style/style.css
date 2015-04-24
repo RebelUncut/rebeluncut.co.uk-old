@@ -1398,7 +1398,9 @@ ul.team {
     margin-right: 2.35765%;
     width: 100%; }
     .training .courses > li > ul.topics li:last-child {
-      margin-right: 0; } }
+      margin-right: 0; }
+    .training .courses > li > ul.topics li:nth-child(1n) {
+      margin-left: 0%; } }
 
 body {
   margin: 0;
