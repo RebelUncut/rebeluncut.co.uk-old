@@ -420,7 +420,7 @@ header .lower-nav {
     padding: .5rem 1rem; }
     header .lower-nav .menu-button:hover {
       cursor: pointer; }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 72rem) {
   header nav ul,
   header .yrs {
     padding-left: 1.5rem;
@@ -463,7 +463,7 @@ header .lower-nav {
       margin-right: .5em; }
     .pre-footer p:last-child {
       margin-bottom: 5em; }
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 72rem) {
     .pre-footer h1 {
       font-size: 1rem; }
     .pre-footer p {
@@ -491,7 +491,7 @@ header .lower-nav {
     width: 100%;
     margin-bottom: 0;
     color: white; }
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 72rem) {
     .page-title {
       padding: 2rem; }
       .page-title h1 {
@@ -515,7 +515,7 @@ header .lower-nav {
     border-bottom: 2px solid #7f359c;
     float: left;
     padding-bottom: 1rem; }
-    @media screen and (max-width: 900px) {
+    @media screen and (max-width: 72rem) {
       .section-header h1 {
         margin: 2rem;
         margin-top: 2em;
@@ -555,7 +555,7 @@ header .lower-nav {
     margin-top: 0;
     padding: 4rem 2rem;
     color: white; }
-    @media screen and (max-width: 900px) {
+    @media screen and (max-width: 72rem) {
       .intro h1 {
         font-size: 1em;
         padding: 2rem; } }
@@ -688,7 +688,7 @@ ul.work-tiles {
         font-weight: bold;
         margin-top: .2em;
         font-size: 1vw; }
-    @media screen and (max-width: 900px) {
+    @media screen and (max-width: 72rem) {
       ul.work-tiles li {
         width: 33.33333vw;
         height: 33.33333vw;
@@ -781,7 +781,7 @@ ul.team {
     ul.team li h3 {
       font-weight: 400;
       margin-bottom: 0; }
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 72rem) {
     ul.team {
       padding: 0 1.5rem; }
       ul.team li {
@@ -894,7 +894,7 @@ ul.team {
   padding: 2em; }
   .case-studies a.more:last-child {
     margin-right: 0; }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 72rem) {
   .case-studies ul li {
     width: 100vw; }
     .case-studies ul li .content {
@@ -928,7 +928,7 @@ ul.team {
   .case-study .case-study-header h2.client {
     font-size: 1.5em;
     margin-top: 1em; }
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 72rem) {
     .case-study .case-study-header {
       padding: 3em; }
       .case-study .case-study-header h1 {
@@ -973,7 +973,7 @@ ul.team {
     color: #3B4746; }
   .case-study section:nth-child(2) .copy h2, .case-study section:nth-child(6) .copy h2 {
     border-bottom-color: #7f359c; }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 72rem) {
   .case-study section .copy {
     width: 100vw;
     padding: 2rem; }
@@ -1026,7 +1026,7 @@ ul.team {
       margin-top: 0em; }
     .client-logos img:nth-child(n+5) {
       margin-bottom: 4em; }
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 72rem) {
     .client-logos {
       padding: 0 2rem; }
       .client-logos img {
@@ -1074,7 +1074,7 @@ ul.team {
     .case-study-quote cite:before {
       content: "-";
       margin-right: .5em; }
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 72rem) {
     .case-study-quote {
       padding: 4rem 2rem;
       font-size: 1em; } }
@@ -1200,7 +1200,7 @@ ul.team {
       border-bottom: 2px solid #7f359c;
       font-size: 2rem;
       margin-bottom: 2rem; }
-      @media screen and (max-width: 900px) {
+      @media screen and (max-width: 72rem) {
         .yrs-hyperlocal ul.roles li h2 {
           margin: 1.5rem; } }
       @media screen and (max-width: 500px) {
@@ -1219,10 +1219,10 @@ ul.team {
     .yrs-hyperlocal ul.roles li p {
       width: 100%;
       margin-top: 2rem; }
-      @media screen and (max-width: 900px) {
+      @media screen and (max-width: 72rem) {
         .yrs-hyperlocal ul.roles li p {
           padding: 1.5rem; } }
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 72rem) {
     .yrs-hyperlocal .logo,
     .yrs-hyperlocal .intro {
       margin-left: 1.5em;
@@ -1283,13 +1283,122 @@ ul.team {
       text-decoration: underline;
       margin-left: 1em;
       margin-right: 1em; }
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 72rem) {
     .talent-footer {
       padding: 2rem; }
       .talent-footer .links {
         margin-top: 1em; }
         .talent-footer .links a {
           display: block; } }
+
+.training .courses > li {
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4rem;
+  line-height: 1.5; }
+  .training .courses > li::after {
+    clear: both;
+    content: "";
+    display: table; }
+  .training .courses > li > h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    border-bottom: 2px solid #7f359c;
+    float: left;
+    padding-bottom: 1rem; }
+  .training .courses > li > p {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 100%;
+    margin-bottom: 1rem; }
+    .training .courses > li > p:last-child {
+      margin-right: 0; }
+  .training .courses > li > ul {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 48.82117%; }
+    .training .courses > li > ul:last-child {
+      margin-right: 0; }
+    .training .courses > li > ul:nth-child(2) {
+      margin-right: 0; }
+    .training .courses > li > ul h3 {
+      text-align: center;
+      font-size: 1rem;
+      float: left;
+      margin-top: 2rem; }
+    .training .courses > li > ul .content {
+      float: left;
+      display: block;
+      margin-right: 4.82916%;
+      width: 100%;
+      margin-top: 1em; }
+      .training .courses > li > ul .content:last-child {
+        margin-right: 0; }
+    .training .courses > li > ul.topics li {
+      float: left;
+      display: block;
+      margin-right: 4.82916%;
+      width: 43.21754%;
+      background: no-repeat left 6px;
+      background-image: url("/assets/img/bullet.png");
+      padding-left: 24px;
+      margin: 7.5px 0; }
+      .training .courses > li > ul.topics li:last-child {
+        margin-right: 0; }
+      .training .courses > li > ul.topics li:nth-child(2n) {
+        margin-right: 0; }
+      .training .courses > li > ul.topics li:nth-child(2n+1) {
+        clear: left; }
+      .training .courses > li > ul.topics li:nth-child(2n) {
+        margin-left: 8.73576%; }
+    .training .courses > li > ul.faq li {
+      background: no-repeat left 6px;
+      background-image: url("/assets/img/bullet.png");
+      padding-left: 24px;
+      margin: 7.5px 0; }
+      .training .courses > li > ul.faq li .q {
+        font-weight: bold; }
+  .training .courses > li.corp {
+    background: #7f359c;
+    padding: 2em;
+    color: white; }
+    .training .courses > li.corp > ul.faq li,
+    .training .courses > li.corp > ul.topics li {
+      background: no-repeat left 6px;
+      background-image: url("/assets/img/bullet.png");
+      padding-left: 24px;
+      margin: 7.5px 0;
+      background-image: url(/assets/img/bullet-white.png); }
+@media screen and (max-width: 72rem) {
+  .training .courses {
+    padding: 0 2rem; }
+    .training .courses > li > ul.topics {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 100%; }
+      .training .courses > li > ul.topics:last-child {
+        margin-right: 0; }
+    .training .courses > li > ul.faq {
+      display: none; }
+    .training .courses > li > ul.testimonial {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 100%; }
+      .training .courses > li > ul.testimonial:last-child {
+        margin-right: 0; } }
+@media screen and (max-width: 500px) {
+  .training .courses > li > ul.topics li {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 100%; }
+    .training .courses > li > ul.topics li:last-child {
+      margin-right: 0; } }
 
 body {
   margin: 0;
