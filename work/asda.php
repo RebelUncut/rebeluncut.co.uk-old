@@ -1,5 +1,5 @@
 <?php 
-	$title = "From Steak to Plate with ASDA";
+	$title = "A Steak in the Future with ASDA";
 	$keywords = "key1";
 	include "../partials/_header.php";
 ?>

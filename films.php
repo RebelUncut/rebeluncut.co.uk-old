@@ -1,5 +1,5 @@
 <?php 
-	$title = "From Steak to Plate with ASDA";
+	$title = "Films";
 	$keywords = "key1";
 	include "partials/_header.php";
 ?>
@@ -72,7 +72,7 @@
 		</section>
 
 		<div class="section-header more-work">
-		<h1>Old Stuff</h1>
+		<h1>Archive</h1>
 	</div>
 
 	<ul class="work-tiles">
@@ -81,16 +81,14 @@
 				<div class="tags">
 					<span>STAINED</span>
 					<span>Short Film</span>
-					<span>Social Media Integration</span>
 				</div>
 			</div>
 		</li>
 		<li style="background-image:url(/assets/img/films/5soldiers.png);">
 			<div class="filter">
 				<div class="tags">
-					<span><B>5 SOLDIERS</B></span>
+					<span>5 SOLDIERS</span>
 					<span>Dance Film</span>
-					<span>Social Media Integration</span>
 				</div>
 			</div>
 		</li>
@@ -99,26 +97,22 @@
 				<div class="tags">
 					<span>OPEN CALL</span>
 					<span>Short Film</span>
-					<span>Technical Delivery</span>
 				</div>
 			</div>
 		</li>
-		<li style="background-image:url(/assets/img/work-tiles/capitaltv/bg.png);">
+		<li style="background-image:url(/assets/img/films/brum.png);">
 			<div class="filter">
 				<div class="tags">
-					<span>Press Film</span>
-					<span>Worldwide Press Launch</span>
-					<span>Campaign Integration</span>
+					<span>BRUM MOVES</span>
+					<span>Dance Film</span>
 				</div>
 			</div>
 		</li>
-		<li style="background-image:url(/assets/img/work-tiles/bourg/bg.png);">
+		<li style="background-image:url(/assets/img/films/spirited.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/bourg/logo.png">
 				<div class="tags">
-					<span>Design</span>
-					<span>Film for Web</span>
-					<span>Booking Solution</span>
+					<span>SPIRITED</span>
+					<span>Short Film</span>
 				</div>
 			</div>
 
