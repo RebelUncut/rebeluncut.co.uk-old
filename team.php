@@ -80,8 +80,8 @@
 	</li>
 	<li>
 		<img src="/assets/img/team/caroline.jpg">
-		<h2>Caroline Beavon</h2>
-		<h3>Data Visualisation</h3>
+		<h2>Caroline Beavon Ltd</h2>
+		<h3>Information/Data design</h3>
 	</li>
 	<li>
 		<img src="/assets/img/team/dick.jpg">

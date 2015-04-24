@@ -40,7 +40,7 @@
 				<img src="/assets/img/services/development.svg">
 				<h3>Development</h3>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+					We approach film and development in the same way; strong narratives mean strong user experiences.
 				</p>
 			</li>
 			<li>
