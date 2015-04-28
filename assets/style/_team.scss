@@ -9,6 +9,10 @@ ul.team {
 		img {
 			@include prefix((border-radius: 100em), webkit moz ms o);
 			width: 100%;
+			display: block;
+			&.hero {
+				display: none;
+			}
 		}
 		h2 {
 			font-weight: 800;
@@ -22,6 +26,27 @@ ul.team {
 		h3 {
 			font-weight: 400;
 			margin-bottom: 0;
+			&.hero {
+				display: none;
+			}
+		}
+		&:hover {
+			img {
+				&.headshot {
+					display: none;
+				}
+				&.hero {
+					display: block;
+				}
+			}
+			h3 {
+				&.role {
+					display: none;
+				}
+				&.hero {
+					display: block;
+				}
+			}
 		}
 	}
 	@media screen and (max-width: $medium-screen) {

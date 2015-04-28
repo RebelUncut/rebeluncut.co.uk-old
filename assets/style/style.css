@@ -770,7 +770,10 @@ ul.team {
       -ms-border-radius: 100em;
       -o-border-radius: 100em;
       border-radius: 100em;
-      width: 100%; }
+      width: 100%;
+      display: block; }
+      ul.team li img.hero {
+        display: none; }
     ul.team li h2 {
       font-weight: 800;
       margin-top: 1em;
@@ -781,6 +784,16 @@ ul.team {
     ul.team li h3 {
       font-weight: 400;
       margin-bottom: 0; }
+      ul.team li h3.hero {
+        display: none; }
+    ul.team li:hover img.headshot {
+      display: none; }
+    ul.team li:hover img.hero {
+      display: block; }
+    ul.team li:hover h3.role {
+      display: none; }
+    ul.team li:hover h3.hero {
+      display: block; }
   @media screen and (max-width: 72rem) {
     ul.team {
       padding: 0 1.5rem; }

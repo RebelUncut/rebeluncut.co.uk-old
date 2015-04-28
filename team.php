@@ -14,9 +14,11 @@
 
 <ul class="team">
 	<li>
-		<img src="/assets/img/team/julia.jpg">
+		<img class="headshot" src="/assets/img/team/julia.jpg">
+		<img class="hero" src="/assets/img/team/carl.jpg">
 		<h2>Julia Higginbottom</h2>
-		<h3>Producer</h3>
+		<h3 class="role">Producer</h3>
+		<h3 class="hero">Most Like Iron Man</h3>
 	</li>
 	<li>
 		<img src="/assets/img/team/nat.png">
