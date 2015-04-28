@@ -7,7 +7,7 @@
 		<div class="wrapper">
 			<h1>Our Work</h1>
 			<p>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nisi, nesciunt earum harum vitae nulla id perferendis culpa ab. 
+				We've completed over XX projects in the last XX years, and here is a selection of our favourites.
 			</p>
 		</div>
 	</div>
