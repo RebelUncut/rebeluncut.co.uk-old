@@ -47,14 +47,14 @@
 				<img src="/assets/img/services/training.svg">
 				<h3>Training</h3>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+					We want to share our passion with upcoming talent. Use our training days to level up your skill.
 				</p>
 			</li>
 			<li>
 				<img src="/assets/img/services/events.svg">
 				<h3>Events</h3>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+					Whether it's livestreaming or providing our expert knowledge, we have the experience to make your event shine. 
 				</p>
 			</li>
 		</ul>
