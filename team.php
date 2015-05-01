@@ -23,7 +23,7 @@
 	<li>
 		<img src="/assets/img/team/nat.png">
 		<h2>Nat Higginbottom</h2>
-		<h3>Producer - Editor</h3>
+		<h3>Editor</h3>
 	</li>
 	<li>
 		<img src="/assets/img/team/kevin.jpg">
