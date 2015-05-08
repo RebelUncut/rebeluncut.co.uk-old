@@ -10,7 +10,7 @@
 			<div class="wrapper">
 				<h1>A Steak in the Future with ASDA</h1>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nisi, nesciunt earum harum vitae nulla id perferendis culpa ab. 
+					Working with ASDA, ABP & IE Design to conceptualise shopping in the near future.
 				</p>
 			</div>
 		</div>
@@ -18,9 +18,9 @@
 		<section>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Conception</h2>
+					<h2>Brief</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						We were tasked with imagining a frictionless customer journey in the near future. We were given free reign to explore a seamless, ideal customer experience.
 					</p>
 				</div>
 			</div>
@@ -31,9 +31,9 @@
 			<div class="img match" style="background-image: url(/assets/img/case-studies/asda/2.png);"></div>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Ideation</h2>
+					<h2>Idea</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						Following a family, planning a dinner party. They call on a range of ASDA solutions & experts to help them personalise their shopping experience. From choosing the right wine to accompany a good steak through to allergen advice for guests.
 					</p>
 				</div>
 			</div>
@@ -50,9 +50,9 @@
 		<section>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Filming</h2>
+					<h2>Challenges</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						This particual brief pushed the team to find an engaging narrative that toed the delicate line between what near future techonolgy could potentially do and what customers would like it to do. ASDA felt we hit the nail on the head.
 					</p>
 				</div>
 			</div>
@@ -63,9 +63,9 @@
 			<div class="img match" style="background-image: url(/assets/img/case-studies/asda/4.png);"></div>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Launch</h2>
+					<h2>Delivery</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						ABP were really excited to show ASDA their vision for the future in an unconventional way, even hopping on a private plane and demoing it on a personalised iPad. The client really felt they had a stake in the future.
 					</p>
 				</div>
 			</div>

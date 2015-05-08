@@ -7,7 +7,7 @@
 		<div class="wrapper">
 			<h1>Our Work</h1>
 			<p>
-				We've completed over XX projects in the last XX years, and here is a selection of our favourites.
+				From sizzling steaks to exploding cars, whatever your story... we've got you covered.
 			</p>
 		</div>
 	</div>
@@ -24,7 +24,7 @@
 					<h2 class="client">ABP & ASDA</h2>
 					<h1>A Steak in the Future</h1>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae reprehenderit impedit, nisi cum unde ex aut maxime non sequi voluptas ipsa odit, ea ratione! Maxime soluta quam eum cum ipsum!
+						We were tasked with imagining a frictionless customer journey in the near future. We were given free reign to explore a seamless, ideal customer experience.
 					</p>
 					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
 				</div>
