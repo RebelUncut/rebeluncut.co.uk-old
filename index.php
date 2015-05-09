@@ -76,7 +76,7 @@
 					<h2 class="client">ABP & ASDA</h2>
 					<h1>A Steak in the Future</h1>
 					<p>
-						We were tasked with imagining a frictionless customer journey in the near future. We were given free reign to explore a seamless, ideal customer experience.
+						We were tasked with imagining a frictionless customer journey in the near future. We were given free reign to explore a seamless, ideal customer experience based around a couple planning a dinner party.
 					</p>
 					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
 				</div>
@@ -92,7 +92,7 @@
 					<h2 class="client">Chef & Brewer</h2>
 					<h1>From Gate to Plate</h1>
 					<p>
-						The client wanted to evoke a sense of connection with the produce from farm to Chef &amp; Brewer restaurants. We were charged with shaping the C&B brand onto moving visuals whilst emphasising the message of fresh, seasonal menus across the narrative.
+						The client wanted to evoke a sense of connection from farm produce to Chef &amp; Brewer restaurants. In addition, shaping the C&B brand onto moving visuals whilst emphasising the message of fresh, seasonal menus across the narrative.
 					</p>
 					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
 				</div>

@@ -63,11 +63,19 @@
 		<h3 class="hero">Alter Ego - Anneka Rice</h3>
 	</li>
 	<li>
+<<<<<<< HEAD
+		<img class="headshot" src="/assets/img/team/carl.jpg">
+		<img class="hero" src="/assets/img/team/afro.jpg">
+		<h2>Carl Jordan</h2>
+		<h3 class="role">Cameraman</h3>
+		<h3 class="hero">Alter Ego - Afro Samurai</h3>
+=======
 		<img class="headshot" src="/assets/img/team/carl.jpg" alt="Image of Carl">
 		<img class="hero" src="/assets/img/team/puck.jpg" alt="Image of Puck">
 		<h2>Carl Jordan</h2>
 		<h3 class="role">Cameraman</h3>
 		<h3 class="hero">Alter Ego -  Puck</h3>
+>>>>>>> origin/master
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/sam.jpg" alt="Image of Sam">
