@@ -34,10 +34,10 @@
 				<li><a href="/team">Team</a></li>
 				<li><a href="/contact">Contact</a></li>
 				<li class="get-in-touch">
-					<a href="http://twitter.com/rebeluncut" target="_blank">
+					<a href="https://twitter.com/rebeluncut" target="_blank">
 						<i class="fa fa-twitter"></i>
 					</a>
-					<a href="http://facebook.com/rebeluncut" target="_blank">
+					<a href="https://facebook.com/rebeluncut" target="_blank">
 						<i class="fa fa-facebook"></i>
 					</a>
 					<a href="tel:01212364588">
