@@ -6,7 +6,6 @@
 
 	<div class="video-header">
 		<iframe src="http://www.youtube.com/embed/c2W9-AITMO8?vq=hd1080&modestbranding=1&autoplay=1&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&autohide=0&disablekb=1" frameborder="0" volume="0"></iframe>
-		<!-- <iframe src="//player.vimeo.com/video/123222803?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1&amp;loop=1" width="100%" height="100%" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" kwframeid="1"></iframe> -->
 	</div>
 
 	<div class="intro">
@@ -16,21 +15,21 @@
 	<div class="services">
 		<ul>
 			<li>
-				<img src="/assets/img/services/narrative-films.svg">
+				<img src="/assets/img/services/narrative-films.svg" alt="Narrative Film Icon">
 				<h3>Narrative Film</h3>
 				<p>
 					Our passion is for high production value storytelling that doesn't hold anything back.
 				</p>
 			</li>
 			<li>
-				<img src="/assets/img/services/corporate-films.svg">
+				<img src="/assets/img/services/corporate-films.svg" alt="Corporate Film Icon">
 				<h3>Corporate Film</h3>
 				<p>
 					We love to bring our storytelling & technical skills to create fun short form & viral projects.
 				</p>
 			</li>
 			<li>
-				<img src="/assets/img/services/visual-effects.svg">
+				<img src="/assets/img/services/visual-effects.svg" alt="Visual Effects Icon">
 				<h3>Visual Effects</h3>
 				<p>
 					Our team are always ready to innovate and meet the challenges of the next production.
@@ -38,21 +37,21 @@
 			</li>
 			<li class="rule"></li>
 			<li>
-				<img src="/assets/img/services/development.svg">
+				<img src="/assets/img/services/development.svg" alt="Development Icon">
 				<h3>Development</h3>
 				<p>
 					We approach film and development in the same way; strong narratives mean strong user experiences.
 				</p>
 			</li>
 			<li>
-				<img src="/assets/img/services/training.svg">
+				<img src="/assets/img/services/training.svg" alt="Training Icon">
 				<h3>Training</h3>
 				<p>
 					We want to share our passion with upcoming talent. Use our training days to level up your skill.
 				</p>
 			</li>
 			<li>
-				<img src="/assets/img/services/events.svg">
+				<img src="/assets/img/services/events.svg" alt="Events Icon">
 				<h3>Events</h3>
 				<p>
 					Whether it's livestreaming or providing our expert knowledge, we have the experience to make your event shine. 
@@ -109,26 +108,26 @@
 
 	<div class="client-logos">
 		<div class="inner">
-			<img src="/assets/img/client-logos/amey.png">
-			<img src="/assets/img/client-logos/bbclogo.png">
-			<img src="/assets/img/client-logos/asda.png">
-			<img src="/assets/img/client-logos/apprentice.png">
-			<img src="/assets/img/client-logos/army.png">
-			<img src="/assets/img/client-logos/capital.png">
-			<img src="/assets/img/client-logos/ch4.png">
-			<img src="/assets/img/client-logos/heart.png">
-			<img src="/assets/img/client-logos/ncc.png">
-			<img src="/assets/img/client-logos/nhs.png">
-			<img src="/assets/img/client-logos/greenstem.png">
-			<img src="/assets/img/client-logos/global.png">
-			<img src="/assets/img/client-logos/keane.png">
-			<img src="/assets/img/client-logos/library.png">
-			<img src="/assets/img/client-logos/lsc.png">
-			<img src="/assets/img/client-logos/pfeg.png">
-			<img src="/assets/img/client-logos/steelite.png">
-			<img src="/assets/img/client-logos/thsh.png">
-			<img src="/assets/img/client-logos/msduk.png">
-			<img src="/assets/img/client-logos/govdelivery.png">
+			<img src="/assets/img/client-logos/amey.png  alt='Amey Logo'">
+			<img src="/assets/img/client-logos/bbclogo.png  alt='BBC Logo'">
+			<img src="/assets/img/client-logos/asda.png  alt='ASDA Logo'">
+			<img src="/assets/img/client-logos/apprentice.png  alt='Apprenticeships Logo'">
+			<img src="/assets/img/client-logos/army.png  alt='Army Logo'">
+			<img src="/assets/img/client-logos/capital.png  alt='Capital Logo'">
+			<img src="/assets/img/client-logos/ch4.png  alt='Channel 4 Logo'">
+			<img src="/assets/img/client-logos/heart.png  alt='Heart Logo'">
+			<img src="/assets/img/client-logos/ncc.png  alt='NCC Logo'">
+			<img src="/assets/img/client-logos/nhs.png  alt='NHS Logo'">
+			<img src="/assets/img/client-logos/greenstem.png  alt='Greenstem Logo'">
+			<img src="/assets/img/client-logos/global.png  alt='Global Radio Logo'">
+			<img src="/assets/img/client-logos/keane.png  alt='Keane Logo'">
+			<img src="/assets/img/client-logos/library.png  alt='Library Logo'">
+			<img src="/assets/img/client-logos/lsc.png  alt='LSC Logo'">
+			<img src="/assets/img/client-logos/pfeg.png  alt='PFEG Logo'">
+			<img src="/assets/img/client-logos/steelite.png  alt='Steelite Logo'">
+			<img src="/assets/img/client-logos/thsh.png  alt='THSH Logo'">
+			<img src="/assets/img/client-logos/msduk.png  alt='MSDUK Logo'">
+			<img src="/assets/img/client-logos/govdelivery.png  alt='Govdelivery Logo'">
 		</div>
 	</div>
 

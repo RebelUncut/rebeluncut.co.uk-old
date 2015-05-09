@@ -1,0 +1,13 @@
+/* TEAM */
+
+	Developer: Kevin Lewis
+	Contact: kevin [at] rebeluncut.co.uk
+	Twitter: @_phzn
+
+	Developer: Nat Higginbottom
+	Contact: nat [at] rebeluncut.co.uk
+	Twitter: @exsanguinator
+
+	Copy: Julia Higginbottom
+	Contact: julia [at] rebeluncut.co.uk
+	Twitter: @gabysslave

@@ -14,7 +14,7 @@
 	<meta property="og:site_name" content="Rebel Uncut"/>
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
-	<meta property="og:image:ty pe" content="image/jpeg">
+	<meta property="og:image:type" content="image/jpeg">
 
     <meta name="description" content="155 Chars">
     <meta name="keywords" content="video birmingham,production birmingham,video production birmingham,corporate video birmingham,film production birmingham,film production london film production UK,post production birmingham,production company birmingham,TV production,advertising,web video,Live video,streaming,video streaming,web design,digital training,film production west midlands,video production west midlands,events,professional,promotional videos,studio,production,Conference Filming,Event Video,Event Filming,Seminar Filming,Cinema Adverts,Product Demonstration Video,Promo Video,Animation,Motion Graphics,<?php echo $keywords ?>">
@@ -34,10 +34,10 @@
 				<li><a href="/team">Team</a></li>
 				<li><a href="/contact">Contact</a></li>
 				<li class="get-in-touch">
-					<a href="http://twitter.com/rebeluncut" target="_blank">
+					<a href="https://twitter.com/rebeluncut" target="_blank">
 						<i class="fa fa-twitter"></i>
 					</a>
-					<a href="http://facebook.com/rebeluncut" target="_blank">
+					<a href="https://facebook.com/rebeluncut" target="_blank">
 						<i class="fa fa-facebook"></i>
 					</a>
 					<a href="tel:01212364588">
