@@ -71,17 +71,17 @@
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/sam.jpg">
-		<img class="hero" src="/assets/img/team/puck.jpg">
+		<img class="hero" src="/assets/img/team/sam2.jpg">
 		<h2>Sam Freeman</h2>
 		<h3 class="role">Visual Effects</h3>
-		<h3 class="hero">Alter Ego -  </h3>
+		<h3 class="hero">Alter Ego - Sam Gamgee</h3>
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/steve.jpg">
-		<img class="hero" src="/assets/img/team/puck.jpg">
+		<img class="hero" src="/assets/img/team/strange.jpg">
 		<h2>Stephen Atterbury</h2>
 		<h3 class="role">Visual Effects</h3>
-		<h3 class="hero">Alter Ego -  </h3>
+		<h3 class="hero">Alter Ego - Dr Strange</h3>
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/phil.jpg">
@@ -99,10 +99,10 @@
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/billy.png">
-		<img class="hero" src="/assets/img/team/puck.jpg">
+		<img class="hero" src="/assets/img/team/billy.png">
 		<h2>Billy Bannister</h2>
 		<h3 class="role">Location Sound</h3>
-		<h3 class="hero">Alter Ego -  </h3>
+		<h3 class="hero">Location Sound</h3>
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/caroline.jpg">
