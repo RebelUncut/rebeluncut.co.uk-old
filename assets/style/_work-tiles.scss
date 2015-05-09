@@ -17,13 +17,13 @@ $work-tiles_large-square-size: #{$work-tiles_large-square-unit}vw;
 ul.work-tiles {
 	margin-left: auto;
 	margin-right: auto;
-	display: block;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
 	li {
-		display: block;
-		float:left;
 		width: $work-tiles_square-size;
-		height: $work-tiles_square-size;
-		background-size: $work-tiles_square-size $work-tiles_square-size; 
+ 		height: $work-tiles_square-size;
+ 		background-size: $work-tiles_square-size $work-tiles_square-size;
 		.filter {
 			position:relative; 
 			top:0px; 
@@ -121,8 +121,5 @@ ul.work-tiles {
 		display: none;
 	}
 }
-	
-
-
 
 

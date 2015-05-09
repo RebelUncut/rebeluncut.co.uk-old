@@ -1,8 +1,10 @@
 .case-studies {
 	ul {
+		display: flex;
+		justify-direction: row;
+		flex-wrap: wrap;
 		li {
 			width: 50vw;
-			float: left;
 			position: relative;
 			display: block;
 			* {

@@ -648,10 +648,10 @@ header .lower-nav {
 ul.work-tiles {
   margin-left: auto;
   margin-right: auto;
-  display: block; }
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; }
   ul.work-tiles li {
-    display: block;
-    float: left;
     width: 20vw;
     height: 20vw;
     background-size: 20vw 20vw; }
@@ -819,81 +819,84 @@ ul.team {
       ul.team li:last-child {
         margin-right: 0; } }
 
-.case-studies ul li {
-  width: 50vw;
-  float: left;
-  position: relative;
-  display: block; }
-  .case-studies ul li * {
-    color: white; }
-  .case-studies ul li .bg-blur-clip {
-    overflow: hidden;
-    height: 100%;
-    width: 100%;
-    position: absolute; }
-    .case-studies ul li .bg-blur-clip .background {
-      background-size: cover;
-      background-position: left center;
+.case-studies ul {
+  display: flex;
+  justify-direction: row;
+  flex-wrap: wrap; }
+  .case-studies ul li {
+    width: 50vw;
+    position: relative;
+    display: block; }
+    .case-studies ul li * {
+      color: white; }
+    .case-studies ul li .bg-blur-clip {
+      overflow: hidden;
+      height: 100%;
+      width: 100%;
+      position: absolute; }
+      .case-studies ul li .bg-blur-clip .background {
+        background-size: cover;
+        background-position: left center;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        z-index: -2;
+        -webkit-filter: blur(5px);
+        -moz-filter: blur(5px);
+        -ms-filter: blur(5px);
+        -o-filter: blur(5px);
+        filter: blur(5px);
+        -webkit-transform: scale(1.1, 1.1);
+        -moz-transform: scale(1.1, 1.1);
+        -ms-transform: scale(1.1, 1.1);
+        -o-transform: scale(1.1, 1.1);
+        transform: scale(1.1, 1.1); }
+    .case-studies ul li .overlay {
       height: 100%;
       width: 100%;
       position: absolute;
-      z-index: -2;
-      -webkit-filter: blur(5px);
-      -moz-filter: blur(5px);
-      -ms-filter: blur(5px);
-      -o-filter: blur(5px);
-      filter: blur(5px);
-      -webkit-transform: scale(1.1, 1.1);
-      -moz-transform: scale(1.1, 1.1);
-      -ms-transform: scale(1.1, 1.1);
-      -o-transform: scale(1.1, 1.1);
-      transform: scale(1.1, 1.1); }
-  .case-studies ul li .overlay {
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    z-index: -1;
-    background-color: rgba(157, 68, 192, 0.25);
-    background-image: -webkit-linear-gradient(rgba(157, 68, 192, 0.25), rgba(96, 40, 118, 0.25));
-    background-image: linear-gradient(rgba(157, 68, 192, 0.25), rgba(96, 40, 118, 0.25)); }
-  .case-studies ul li .content {
-    z-index: 1;
-    padding: 2rem; }
-    .case-studies ul li .content h2.client {
-      padding-bottom: .75em;
-      border-bottom: 1px solid white;
-      float: left;
-      margin-bottom: 0; }
-    .case-studies ul li .content h1 {
-      font-size: 2em;
-      margin-top: 1.5rem;
-      width: 100%;
-      display: block;
-      float: left; }
-    .case-studies ul li .content p {
-      width: 100%;
-      display: block;
-      float: left; }
-    .case-studies ul li .content .read-more {
-      width: 100%;
-      display: block;
-      float: left;
-      font-weight: bold;
-      margin-top: .75em;
-      margin-bottom: 2rem; }
-      .case-studies ul li .content .read-more i {
-        margin-left: 1em;
-        font-size: .8em;
+      z-index: -1;
+      background-color: rgba(157, 68, 192, 0.25);
+      background-image: -webkit-linear-gradient(rgba(157, 68, 192, 0.25), rgba(96, 40, 118, 0.25));
+      background-image: linear-gradient(rgba(157, 68, 192, 0.25), rgba(96, 40, 118, 0.25)); }
+    .case-studies ul li .content {
+      z-index: 1;
+      padding: 2rem; }
+      .case-studies ul li .content h2.client {
+        padding-bottom: .75em;
+        border-bottom: 1px solid white;
+        float: left;
+        margin-bottom: 0; }
+      .case-studies ul li .content h1 {
+        font-size: 2em;
+        margin-top: 1.5rem;
+        width: 100%;
+        display: block;
+        float: left; }
+      .case-studies ul li .content p {
+        width: 100%;
+        display: block;
+        float: left; }
+      .case-studies ul li .content .read-more {
+        width: 100%;
+        display: block;
+        float: left;
+        font-weight: bold;
+        margin-top: .75em;
+        margin-bottom: 2rem; }
+        .case-studies ul li .content .read-more i {
+          margin-left: 1em;
+          font-size: .8em;
+          -webkit-transition: all 0.15s ease-out 0s;
+          -moz-transition: all 0.15s ease-out 0s;
+          transition: all 0.15s ease-out 0s; }
+    .case-studies ul li:hover {
+      cursor: pointer; }
+      .case-studies ul li:hover .content .read-more i {
+        margin-left: 1.5em;
         -webkit-transition: all 0.15s ease-out 0s;
         -moz-transition: all 0.15s ease-out 0s;
         transition: all 0.15s ease-out 0s; }
-  .case-studies ul li:hover {
-    cursor: pointer; }
-    .case-studies ul li:hover .content .read-more i {
-      margin-left: 1.5em;
-      -webkit-transition: all 0.15s ease-out 0s;
-      -moz-transition: all 0.15s ease-out 0s;
-      transition: all 0.15s ease-out 0s; }
 .case-studies a.more {
   float: left;
   display: block;
@@ -928,75 +931,55 @@ ul.team {
     -o-filter: blur(0);
     filter: blur(0); } }
 
-.case-study .case-study-header {
-  background-color: white;
-  padding: 3em; }
-  .case-study .case-study-header * {
-    color: #7f359c;
-    text-align: center;
-    text-transform: uppercase;
-    margin-bottom: 0; }
-  .case-study .case-study-header h1 {
-    font-size: 2em; }
-  .case-study .case-study-header h2.client {
-    font-size: 1.5em;
-    margin-top: 1em; }
-  @media screen and (max-width: 72rem) {
-    .case-study .case-study-header {
-      padding: 3em; }
-      .case-study .case-study-header h1 {
-        font-size: 1.5em; }
-      .case-study .case-study-header h2.client {
-        font-size: 1em; } }
-.case-study section .copy {
-  width: 50vw;
-  display: block;
-  float: left; }
-  .case-study section .copy .inner {
-    width: 30vw;
-    margin: 7.5vw 10vw;
-    padding: 2.5vw;
-    background: #7f359c;
-    color: white; }
-  .case-study section .copy h2 {
-    padding-bottom: .75em;
-    border-bottom: 2px solid white;
-    float: left; }
-  .case-study section .copy p {
-    margin-bottom: 0;
-    width: 100%;
-    display: inline-block; }
-    .case-study section .copy p i {
-      display: block;
-      margin-top: 1em;
-      font-size: 0.9em; }
-.case-study section .img {
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -ms-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  width: 50vw;
-  float: left;
-  display: block; }
-.case-study section:nth-child(2) .copy, .case-study section:nth-child(6) .copy {
-  background: #7f359c; }
-  .case-study section:nth-child(2) .copy .inner, .case-study section:nth-child(6) .copy .inner {
-    background: white;
-    color: #3B4746; }
-  .case-study section:nth-child(2) .copy h2, .case-study section:nth-child(6) .copy h2 {
-    border-bottom-color: #7f359c; }
-@media screen and (max-width: 72rem) {
+.case-study section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap; }
+  .case-study section > * {
+    width: 50vw; }
   .case-study section .copy {
-    width: 100vw;
-    padding: 2rem; }
+    background: white;
+    padding: 4rem; }
     .case-study section .copy .inner {
-      margin: 0;
-      padding: 2rem;
-      width: 100%; }
-  .case-study section:nth-child(2) .img, .case-study section:nth-child(6) .img {
-    height: 50vh;
-    width: 100vw; } }
+      background: #7f359c;
+      color: white;
+      padding: 2rem; }
+      .case-study section .copy .inner h2 {
+        float: left;
+        padding-bottom: .75em;
+        border-bottom: 2px solid white; }
+      .case-study section .copy .inner p {
+        margin-bottom: 0;
+        width: 100%;
+        display: inline-block; }
+        .case-study section .copy .inner p i {
+          display: block;
+          margin-top: 1em;
+          font-size: .9em; }
+  .case-study section .img {
+    background-size: cover; }
+  .case-study section:nth-child(2) .copy, .case-study section:nth-child(6) .copy {
+    background: #7f359c; }
+    .case-study section:nth-child(2) .copy .inner, .case-study section:nth-child(6) .copy .inner {
+      background: white;
+      color: #3B4746; }
+    .case-study section:nth-child(2) .copy h2, .case-study section:nth-child(6) .copy h2 {
+      border-bottom-color: #7f359c; }
+  @media screen and (max-width: 72rem) {
+    .case-study section {
+      display: block; }
+      .case-study section .copy {
+        display: block;
+        width: 100vw;
+        padding: 2rem; }
+        .case-study section .copy .inner {
+          margin: 0;
+          padding: 2rem;
+          width: 100%; }
+      .case-study section:nth-child(2) .img, .case-study section:nth-child(6) .img {
+        display: block;
+        height: 50vh;
+        width: 100vw; } }
 .case-study .finished-work {
   background: #7f359c;
   float: left;
@@ -1063,7 +1046,6 @@ ul.team {
   -o-background-size: cover;
   background-size: cover;
   display: block;
-  float: left;
   width: 100%;
   padding: 4rem 6rem;
   font-size: 1.5em; }

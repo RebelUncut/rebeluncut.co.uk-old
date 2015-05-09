@@ -1,63 +1,37 @@
 .case-study {
-	.case-study-header {
-		background-color: white;
-		padding: 3em;
-		* {
-			color: $color_accent;
-			text-align: center;
-			text-transform: uppercase;
-			margin-bottom: 0;
-		}
-		h1 {
-			font-size: 2em;
-		}
-		h2.client {
-			font-size: 1.5em;
-			margin-top: 1em;
-		}
-		@media screen and (max-width: $medium-screen) {
-			padding: 3em;
-			h1 {
-				font-size: 1.5em;
-			}
-			h2.client {
-				font-size: 1em;
-			}
-		}
-	}
 	section {
-		.copy {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		> * {
 			width: 50vw;
-			display: block;
-			float: left;
+		}
+		.copy {
+			background: white;
+			padding: $side-padding * 2;
 			.inner {
-				width: 30vw;
-				margin: 7.5vw 10vw;
-				padding: 2.5vw;
 				background: $color_accent;
 				color: white;
-			}
-			h2 {
-				padding-bottom: .75em;
-				border-bottom: 2px solid white;
-				float: left;
-			}
-			p {
-				margin-bottom: 0;
-				width: 100%;
-				display: inline-block;
-				i {
-					display: block;
-					margin-top: 1em;
-					font-size: 0.9em;
+				padding: $side-padding;
+				h2 {
+					float: left;
+					padding-bottom: .75em;
+					border-bottom: 2px solid white;
+				}
+				p {
+					margin-bottom: 0;
+					width: 100%;
+					display: inline-block;
+					i {
+						display: block;
+						margin-top: 1em;
+						font-size: .9em;
+					}
 				}
 			}
 		}
 		.img {
-			@include prefix((background-size: cover), webkit moz ms o);
-			width: 50vw;
-			float: left;
-			display: block;
+			background-size: cover;
 		}
 		&:nth-child(2),
 		&:nth-child(6) {
@@ -73,7 +47,9 @@
 			}
 		}
 		@media screen and (max-width: $medium-screen) {
+			display: block;
 			.copy {
+				display: block;
 				width: 100vw;
 				padding: $side-padding;
 				.inner {
@@ -84,6 +60,7 @@
 			}
 			&:nth-child(2) .img,
 			&:nth-child(6) .img {
+				display: block;
 				height: 50vh;
 				width: 100vw;
 			}
@@ -104,3 +81,4 @@
 		margin-top: -1vw;
 	}
 }
+
