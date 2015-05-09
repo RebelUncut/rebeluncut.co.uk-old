@@ -9,6 +9,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width">
 
+    < meta property="og:image" content="/assets/img/og-ru.jpg">
+	<meta property="og:description" content="155 Chars">
+	<meta property="og:site_name" content="Rebel Uncut"/>
+	<meta property="og:url" content="http://<?php $_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI] ?>" />
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<meta property="og:image:ty pe" content="image/jpeg">
+
     <meta name="description" content="155 Chars">
     <meta name="keywords" content="video birmingham,production birmingham,video production birmingham,corporate video birmingham,film production birmingham,film production london film production UK,post production birmingham,production company birmingham,TV production,advertising,web video,Live video,streaming,video streaming,web design,digital training,film production west midlands,video production west midlands,events,professional,promotional videos,studio,production,Conference Filming,Event Video,Event Filming,Seminar Filming,Cinema Adverts,Product Demonstration Video,Promo Video,Animation,Motion Graphics,<?php echo $keywords ?>">
 
@@ -16,6 +24,8 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800' rel='stylesheet' type='text/css'> 
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="/assets/style/style.css"/>
+
+
 </head>
 <body>
 	<header>
