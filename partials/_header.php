@@ -9,10 +9,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width">
 
-    < meta property="og:image" content="/assets/img/og-ru.jpg">
+    <meta property="og:image" content="/assets/img/og-ru.jpg">
 	<meta property="og:description" content="155 Chars">
 	<meta property="og:site_name" content="Rebel Uncut"/>
-	<meta property="og:url" content="http://<?php $_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI] ?>" />
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
 	<meta property="og:image:ty pe" content="image/jpeg">
