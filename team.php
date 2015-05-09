@@ -106,10 +106,10 @@
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/caroline.jpg">
-		<img class="hero" src="/assets/img/team/puck.jpg">
+		<img class="hero" src="/assets/img/team/girl.jpg">
 		<h2>Caroline Beavon Ltd</h2>
 		<h3 class="role">Information/Data design</h3>
-		<h3 class="hero">Alter Ego -  </h3>
+		<h3 class="hero">Alter Ego - Power Girl</h3>
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/dick.jpg">

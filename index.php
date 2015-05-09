@@ -5,7 +5,8 @@
 ?>
 
 	<div class="video-header">
-		<iframe src="http://www.youtube.com/embed/3jYol3J7LnE?vq=hd1080&modestbranding=1&autoplay=1&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&autohide=0&disablekb=1" frameborder="0"></iframe>
+		<iframe src="http://www.youtube.com/embed/c2W9-AITMO8?vq=hd1080&modestbranding=1&autoplay=1&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&autohide=0&disablekb=1" frameborder="0" volume="0"></iframe>
+		<!-- <iframe src="//player.vimeo.com/video/123222803?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1&amp;loop=1" width="100%" height="100%" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" kwframeid="1"></iframe> -->
 	</div>
 
 	<div class="intro">
@@ -76,7 +77,7 @@
 					<h2 class="client">ABP & ASDA</h2>
 					<h1>A Steak in the Future</h1>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recus&ae reprehenderit impedit, nisi cum unde ex aut maxime non sequi voluptas ipsa odit, ea ratione! Maxime soluta quam eum cum ipsum!
+						We were tasked with imagining a frictionless customer journey in the near future. We were given free reign to explore a seamless, ideal customer experience.
 					</p>
 					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
 				</div>
