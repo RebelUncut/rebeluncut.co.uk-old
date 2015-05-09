@@ -24,7 +24,7 @@
 					<h2 class="client">ABP & ASDA</h2>
 					<h1>A Steak in the Future</h1>
 					<p>
-						We were tasked with imagining a frictionless customer journey in the near future. We were given free reign to explore a seamless, ideal customer experience.
+						We were tasked with imagining a frictionless customer journey in the near future. We were given free reign to explore a seamless, ideal customer experience based around a couple planning a dinner party.
 					</p>
 					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
 				</div>
@@ -40,7 +40,7 @@
 					<h2 class="client">Chef & Brewer</h2>
 					<h1>From Gate to Plate</h1>
 					<p>
-						The client wanted to evoke a sense of connection with the produce from farm to Chef &amp; Brewer restaurants. We were charged with shaping the C&B brand onto moving visuals whilst emphasising the message of fresh, seasonal menus across the narrative.
+						The client wanted to evoke a sense of connection from farm produce to Chef &amp; Brewer restaurants. In addition, shaping the C&B brand onto moving visuals whilst emphasising the message of fresh, seasonal menus across the narrative.
 					</p>
 					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
 				</div>
@@ -56,7 +56,7 @@
 					<h2 class="client">PFEG</h2>
 					<h1>Personal Finance Education</h1>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae reprehenderit impedit, nisi cum unde ex aut maxime non sequi voluptas ipsa odit, ea ratione! Maxime soluta quam eum cum ipsum!
+						pfeg had commisioned an entirely new brand identity from IE Design and were looking to repurpose their amazing archive. The brief was to enhance existing talking head videos, with a surprising and refreshed signposting of their work.
 					</p>
 					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
 				</div>
@@ -72,7 +72,7 @@
 					<h2 class="client">Global Radio</h2>
 					<h1>Recruitment Film</h1>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae reprehenderit impedit, nisi cum unde ex aut maxime non sequi voluptas ipsa odit, ea ratione! Maxime soluta quam eum cum ipsum!
+						Global Radio was at the beginning of their rebrand & wanted to start a dialogue with their teams and potential new recruits. This brief was to create a film showing the heart of each of their stations which could be updated easily each year.
 					</p>
 					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
 				</div>

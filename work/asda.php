@@ -33,18 +33,18 @@
 				<div class="inner">
 					<h2>Idea</h2>
 					<p>
-						Following a family, planning a dinner party. They call on a range of ASDA solutions & experts to help them personalise their shopping experience. From choosing the right wine to accompany a good steak through to allergen advice for guests.
+						Following a couple, planning a dinner party. They call on a range of ASDA solutions & experts to help them personalise their shopping experience. From choosing the right wine to accompany a good steak through to allergen advice for guests.
 					</p>
 				</div>
 			</div>
 		</section>
 
 		<div class="case-study-quote">
-			<blockquote>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum quod iste debitis aliquam nihil delectus explicabo quibusdam enim deleniti autem, tempore, quis sint mollitia laudantium porro atque unde, saepe laborum.
-				</p>
-			</blockquote>
+		<blockquote>
+			<p>
+				Rebel Uncut effortlessly translate the strategic objectives of clients into creative solutions that really deliver on message, on time & on budget.
+		</blockquote>
+		<cite>Ollie Leggett, IE Design.</cite>
 		</div>
 
 		<section>

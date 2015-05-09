@@ -10,7 +10,7 @@
 			<div class="wrapper">
 				<h1>Global Recruitment</h1>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nisi, nesciunt earum harum vitae nulla id perferendis culpa ab. 
+					On air, online, on your mobile... Recruiting talent with talent.
 				</p>
 			</div>
 		</div>
@@ -18,9 +18,9 @@
 		<section>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Conception</h2>
+					<h2>Brief</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						Global Radio was at the beginning of their rebrand and wanted to start a dialogue with their teams and potential new recruits. This brief was to create a film showing a little of the heart of each of their stations which could be updated easily each year.
 					</p>
 				</div>
 			</div>
@@ -31,9 +31,9 @@
 			<div class="img match" style="background-image: url(/assets/img/case-studies/global/2.png);"></div>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Ideation</h2>
+					<h2>Idea</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						Our idea was to get the faces behind the stations in their natural habitat and to have the Founder talking directly to their target recruits, showing the amazing, friendly corporate culture.
 					</p>
 				</div>
 			</div>
@@ -42,7 +42,7 @@
 		<div class="case-study-quote">
 			<blockquote>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum quod iste debitis aliquam nihil delectus explicabo quibusdam enim deleniti autem, tempore, quis sint mollitia laudantium porro atque unde, saepe laborum.
+					QUOTE GOES HERE
 				</p>
 			</blockquote>
 		</div>
@@ -50,9 +50,10 @@
 		<section>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Filming</h2>
+					<h2>Challenges</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						The three main challenges of this project were the number of stations to cover, their geographic spread and their talent's tight schedules. We raced around the UK over a number of days catching brief, fun moments with each team.
+
 					</p>
 				</div>
 			</div>
@@ -63,9 +64,9 @@
 			<div class="img match" style="background-image: url(/assets/img/case-studies/global/4.png);"></div>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Launch</h2>
+					<h2>Delivery</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						This project is unusual as we have to refresh portions of the film when new teams take over flagship shows, to keep it relevant. This means we have to snatch time with teams as they are embedding in their new roles.
 					</p>
 				</div>
 			</div>

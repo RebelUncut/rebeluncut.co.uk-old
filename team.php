@@ -64,10 +64,10 @@
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/carl.jpg">
-		<img class="hero" src="/assets/img/team/puck.jpg">
+		<img class="hero" src="/assets/img/team/afro.jpg">
 		<h2>Carl Jordan</h2>
 		<h3 class="role">Cameraman</h3>
-		<h3 class="hero">Alter Ego -  </h3>
+		<h3 class="hero">Alter Ego - Afro Samurai</h3>
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/sam.jpg">
