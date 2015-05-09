@@ -92,10 +92,10 @@
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/danny.jpg">
-		<img class="hero" src="/assets/img/team/puck.jpg">
+		<img class="hero" src="/assets/img/team/galactus.jpg">
 		<h2>Danny Smith</h2>
 		<h3 class="role">Writer</h3>
-		<h3 class="hero">Alter Ego -  </h3>
+		<h3 class="hero">Alter Ego - Galactus</h3>
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/billy.png">
