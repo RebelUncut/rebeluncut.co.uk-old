@@ -99,10 +99,10 @@
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/billy.png">
-		<img class="hero" src="/assets/img/team/billy.png">
+		<img class="hero" src="/assets/img/team/banshee.jpg">
 		<h2>Billy Bannister</h2>
 		<h3 class="role">Location Sound</h3>
-		<h3 class="hero">Location Sound</h3>
+		<h3 class="hero">Alter Ego - Banshee</h3>
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/caroline.jpg">
