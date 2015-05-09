@@ -994,8 +994,9 @@ ul.team {
       margin: 0;
       padding: 2rem;
       width: 100%; }
-  .case-study section:nth-child(2) .img {
-    display: none; } }
+  .case-study section:nth-child(2) .img, .case-study section:nth-child(6) .img {
+    height: 50vh;
+    width: 100vw; } }
 .case-study .finished-work {
   background: #7f359c;
   float: left;
