@@ -938,12 +938,13 @@ ul.team {
   .case-study section > * {
     width: 50vw; }
   .case-study section .copy {
-    background: white;
-    padding: 4rem; }
+    background: white; }
     .case-study section .copy .inner {
       background: #7f359c;
       color: white;
-      padding: 2rem; }
+      width: 30vw;
+      margin: 7.5vw 10vw;
+      padding: 2.5vw; }
       .case-study section .copy .inner h2 {
         float: left;
         padding-bottom: .75em;

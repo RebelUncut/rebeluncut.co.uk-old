@@ -8,11 +8,12 @@
 		}
 		.copy {
 			background: white;
-			padding: $side-padding * 2;
 			.inner {
 				background: $color_accent;
 				color: white;
-				padding: $side-padding;
+				width: 30vw;
+				margin: 7.5vw 10vw;
+				padding: 2.5vw;
 				h2 {
 					float: left;
 					padding-bottom: .75em;
