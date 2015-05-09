@@ -108,26 +108,26 @@
 
 	<div class="client-logos">
 		<div class="inner">
-			<img src="/assets/img/client-logos/amey.png  alt='Amey Logo'">
-			<img src="/assets/img/client-logos/bbclogo.png  alt='BBC Logo'">
-			<img src="/assets/img/client-logos/asda.png  alt='ASDA Logo'">
-			<img src="/assets/img/client-logos/apprentice.png  alt='Apprenticeships Logo'">
-			<img src="/assets/img/client-logos/army.png  alt='Army Logo'">
-			<img src="/assets/img/client-logos/capital.png  alt='Capital Logo'">
-			<img src="/assets/img/client-logos/ch4.png  alt='Channel 4 Logo'">
-			<img src="/assets/img/client-logos/heart.png  alt='Heart Logo'">
-			<img src="/assets/img/client-logos/ncc.png  alt='NCC Logo'">
-			<img src="/assets/img/client-logos/nhs.png  alt='NHS Logo'">
-			<img src="/assets/img/client-logos/greenstem.png  alt='Greenstem Logo'">
-			<img src="/assets/img/client-logos/global.png  alt='Global Radio Logo'">
-			<img src="/assets/img/client-logos/keane.png  alt='Keane Logo'">
-			<img src="/assets/img/client-logos/library.png  alt='Library Logo'">
-			<img src="/assets/img/client-logos/lsc.png  alt='LSC Logo'">
-			<img src="/assets/img/client-logos/pfeg.png  alt='PFEG Logo'">
-			<img src="/assets/img/client-logos/steelite.png  alt='Steelite Logo'">
-			<img src="/assets/img/client-logos/thsh.png  alt='THSH Logo'">
-			<img src="/assets/img/client-logos/msduk.png  alt='MSDUK Logo'">
-			<img src="/assets/img/client-logos/govdelivery.png  alt='Govdelivery Logo'">
+			<img src="/assets/img/client-logos/amey.png" alt="Amey Logo">
+			<img src="/assets/img/client-logos/bbclogo.png" alt="BBC Logo">
+			<img src="/assets/img/client-logos/asda.png" alt="ASDA Logo">
+			<img src="/assets/img/client-logos/apprentice.png" alt="Apprenticeships Logo">
+			<img src="/assets/img/client-logos/army.png" alt="Army Logo">
+			<img src="/assets/img/client-logos/capital.png" alt="Capital Logo">
+			<img src="/assets/img/client-logos/ch4.png" alt="Channel 4 Logo">
+			<img src="/assets/img/client-logos/heart.png" alt="Heart Logo">
+			<img src="/assets/img/client-logos/ncc.png" alt="NCC Logo">
+			<img src="/assets/img/client-logos/nhs.png" alt="NHS Logo">
+			<img src="/assets/img/client-logos/greenstem.png" alt="Greenstem Logo">
+			<img src="/assets/img/client-logos/global.png" alt="Global Radio Logo">
+			<img src="/assets/img/client-logos/keane.png" alt="Keane Logo">
+			<img src="/assets/img/client-logos/library.png" alt="Library Logo">
+			<img src="/assets/img/client-logos/lsc.png" alt="LSC Logo">
+			<img src="/assets/img/client-logos/pfeg.png" alt="PFEG Logo">
+			<img src="/assets/img/client-logos/steelite.png" alt="Steelite Logo">
+			<img src="/assets/img/client-logos/thsh.png" alt="THSH Logo">
+			<img src="/assets/img/client-logos/msduk.png" alt="MSDUK Logo">
+			<img src="/assets/img/client-logos/govdelivery.png" alt="Govdelivery Logo">
 		</div>
 	</div>
 
