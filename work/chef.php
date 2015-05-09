@@ -10,7 +10,7 @@
 			<div class="wrapper">
 				<h1>From Gate to Plate with Chef & Brewer</h1>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nisi, nesciunt earum harum vitae nulla id perferendis culpa ab. 
+					Working with Chef & Brewer to bring their new brand identity to life on the web.
 				</p>
 			</div>
 		</div>
@@ -18,9 +18,10 @@
 		<section>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Conception</h2>
+					<h2>Brief</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						The client wanted to evoke a sense of connection with the produce from farm to Chef &amp; Brewer restaurants. 
+						We were charged with shaping the C&B brand onto moving visuals whilst emphasising the message of fresh, seasonal menus across the narrative.
 					</p>
 				</div>
 			</div>
@@ -31,9 +32,9 @@
 			<div class="img match" style="background-image: url(/assets/img/case-studies/chef/2.jpg);"></div>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Ideation</h2>
+					<h2>Idea</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						We developed an idea which had a common theme of being close up with the food from the farm gate to the customers plate. Combining a shallow depth of field, HD rich imagery reminiscent of cookery shows and food adverts, to bring the Chef &amp; Brewer brand right into the visuals too.
 					</p>
 				</div>
 			</div>
@@ -42,7 +43,7 @@
 		<div class="case-study-quote">
 			<blockquote>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum quod iste debitis aliquam nihil delectus explicabo quibusdam enim deleniti autem, tempore, quis sint mollitia laudantium porro atque unde, saepe laborum.
+					We were delighted at the responsiveness and creativity demonstrated by the team. It surpassed our expectations and we love the finished product.
 				</p>
 			</blockquote>
 		</div>
@@ -50,9 +51,9 @@
 		<section>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Filming</h2>
+					<h2>Challenges</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						With 2 days in the Studio Kitchen, 2 half days in the Pub and the Farm. 3 days, total shooting time, over 4 consecutive days, this was a tricky shoot to get right. Many moving parts and a tight turnaround made it a challenge and the team had to really keep the pace up.
 					</p>
 				</div>
 			</div>
@@ -63,9 +64,9 @@
 			<div class="img match" style="background-image: url(/assets/img/case-studies/chef/4.png);"></div>
 			<div class="copy match">
 				<div class="inner">
-					<h2>Launch</h2>
+					<h2>Graphics</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						The constraints of timing and a still evolving new brand identity meant that we had to devise smart ways of embedding it onto objects in the film using visual effect techniques.
 					</p>
 				</div>
 			</div>

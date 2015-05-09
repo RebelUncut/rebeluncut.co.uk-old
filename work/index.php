@@ -40,7 +40,7 @@
 					<h2 class="client">Chef & Brewer</h2>
 					<h1>From Gate to Plate</h1>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae reprehenderit impedit, nisi cum unde ex aut maxime non sequi voluptas ipsa odit, ea ratione! Maxime soluta quam eum cum ipsum!
+						The client wanted to evoke a sense of connection with the produce from farm to Chef &amp; Brewer restaurants. We were charged with shaping the C&B brand onto moving visuals whilst emphasising the message of fresh, seasonal menus across the narrative.
 					</p>
 					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
 				</div>

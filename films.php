@@ -10,7 +10,7 @@
 			<div class="wrapper">
 				<h1>Shorts &amp; Features</h1>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nisi, nesciunt earum harum vitae nulla id perferendis culpa ab. 
+					Our passion is for high production value storytelling that doesn't hold anything back. 
 				</p>
 			</div>
 		</div>
@@ -20,7 +20,7 @@
 				<div class="inner">
 					<h2>The Vanishing Man</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.<br><i>Completed Short - Feature in Development.</i>
+					In a City consumed by Civil War, a renegade Special Ops soldier risks everything by kidnapping a prisoner about to be executed. As Special Forces close in, he interrogates his hostage, hoping to uncover the truth about the Vanishing Man.<br><i>Completed Short - Feature in Development.</i>
 					</p>
 				</div>
 			</div>
@@ -33,7 +33,7 @@
 				<div class="inner">
 					<h2>500 Miles North</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit. <i>Complete.</i>
+					James and John are estranged brothers. But that is changed when they reunite to satisfy their father's last wishes. Starring Joseph Morgan and Matt Ryan. <i>Complete.</i>
 					</p>
 				</div>
 			</div>
@@ -42,9 +42,10 @@
 		<div class="case-study-quote">
 			<blockquote>
 				<p>
-					We pride ourselves on blah blah something Julia said.
+					Our passion for telling great stories &amp; blowing shit up is why we get out of bed in the morning.
 				</p>
-			</blockquote>
+		</blockquote>
+		<cite>Julia Higginbottom</cite>
 		</div>
 
 		<section>
@@ -52,7 +53,7 @@
 				<div class="inner">
 					<h2>Turbulence</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.<i>Complete &amp; Distributed.</i>
+					When a failing music venue staffed by fools looks set to close, manager Keith launches a last ditch Battle of the Bands competition. More by accident than by design, musical genius is unleashed by a rapping transvestite, some precocious indie rockers and a barmaid with a golden voice, who together save the world they love.<i>Complete &amp; Distributed.</i>
 					</p>
 				</div>
 			</div>
@@ -65,7 +66,7 @@
 				<div class="inner">
 					<h2>The Offering</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.<i>In Development.</i>
+						The Offering is a new 10-minute screen dance project from Sima Gonsai, working in collaboration with Chitraleka Dance Company and producer Julia Higginbottom. The project has been developed through iShorts National Screen Development programme funded by Creative England as part of the BFI NET.WORK.<i>In Development.</i>
 					</p>
 				</div>
 			</div>

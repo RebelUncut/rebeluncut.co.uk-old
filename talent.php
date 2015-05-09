@@ -10,7 +10,7 @@
 			<div class="wrapper">
 				<h1>Young Digital Makers</h1>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nisi, nesciunt earum harum vitae nulla id perferendis culpa ab. 
+					Supporting young local talent from Birmingham with Young Rewired State & CoderDojo 
 				</p>
 			</div>
 		</div>
@@ -20,7 +20,7 @@
 				<div class="inner">
 					<h2>The Challenge</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+					Birmingham has a traditionally low take-up of coding and technology opportunities for young people in particular compared to other regions.
 					</p>
 				</div>
 			</div>
@@ -33,18 +33,19 @@
 				<div class="inner">
 					<h2>What Rebel Uncut are Doing</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+					We are partnering with local and national schemes to increase opportunities in the city. We aim to target "hard to reach" communities and are keen to encourage young women to participate.
 					</p>
 				</div>
 			</div>
 		</section>
 
 		<div class="case-study-quote">
-			<blockquote>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum quod iste debitis aliquam nihil delectus explicabo quibusdam enim deleniti autem, tempore, quis sint mollitia laudantium porro atque unde, saepe laborum.
-				</p>
-			</blockquote>
+		<blockquote>
+			<p>
+			Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.
+			</p>
+		</blockquote>
+		<cite>Bill Gates</cite>
 		</div>
 
 		<section>
@@ -52,11 +53,11 @@
 				<div class="inner">
 					<h2>CoderDojo</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						CoderDojo is a global movement of free, volunteer-led,  community based programming clubs for young people, between 7 and 17. They learn to explore technology in an informal and creative environment. In addition to learning to code attendees meet like minded people and are exposed to the possibilities of technology.
 					</p>
 				</div>
 			</div>
-			<div class="img match" style="background-image: url(assets/img/talent/3.png);"></div>
+			<div class="img match" style="background-image: url(assets/img/talent/dojo.png);"></div>
 		</section>
 
 		<section>
@@ -65,7 +66,7 @@
 				<div class="inner">
 					<h2>Young Rewired State Hyperlocal</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptas quisquam adipisci odit officia, ratione porro recusandae temporibus cum dolor blanditiis distinctio veniam est voluptate, repellendus commodi, facere itaque velit.
+						Young Rewired State is a worldwide community of young digital makers aged 18 and under who solve real world problems using freely available open data. Since 2009, our Festival of Code attendees have created websites, apps, games, hardware hacks and algorithms. Now, we’re upping our game, and making it our mission to continue to find, nurture and support the next generation of tech talent all year round.
 					</p>
 				</div>
 			</div>

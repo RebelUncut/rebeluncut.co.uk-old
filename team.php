@@ -7,7 +7,7 @@
 	<div class="wrapper">
 		<h1>Our Team</h1>
 		<p>
-			We are a small core with an extended freelance family of professionals, allowing us to create a team tailored to your project needs.
+			We are a small core team with an extended freelance family of professionals, allowing us to choose the right talent for your project.
 		</p>
 	</div>
 </div>
@@ -43,10 +43,10 @@
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/rob.jpg">
-		<img class="hero" src="/assets/img/team/puck.jpg">
+		<img class="hero" src="/assets/img/team/planets.jpg">
 		<h2>Rob Brown</h2>
 		<h3 class="role">Director</h3>
-		<h3 class="hero">Alter Ego -  </h3>
+		<h3 class="hero">Alter Ego - Gatchaman</h3>
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/sima.jpg">
@@ -108,7 +108,7 @@
 		<img class="headshot" src="/assets/img/team/caroline.jpg">
 		<img class="hero" src="/assets/img/team/girl.jpg">
 		<h2>Caroline Beavon Ltd</h2>
-		<h3 class="role">Information/Data design</h3>
+		<h3 class="role">Information/Data Design</h3>
 		<h3 class="hero">Alter Ego - Power Girl</h3>
 	</li>
 	<li>
