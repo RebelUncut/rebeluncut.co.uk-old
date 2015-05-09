@@ -42,8 +42,7 @@
 		<div class="case-study-quote">
 			<blockquote>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum quod iste debitis aliquam nihil delectus explicabo quibusdam enim deleniti autem, tempore, quis sint mollitia laudantium porro atque unde, saepe laborum.
-				</p>
+					Brilliant to see how such a clever concept has come together, we both wished we could have been there for the shoot to see the team at work.
 			</blockquote>
 		</div>
 
