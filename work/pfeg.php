@@ -16,7 +16,7 @@
 		</div>
 
 		<section>
-			<div class="copy match">
+			<div class="copy">
 				<div class="inner">
 					<h2>Brief</h2>
 					<p>
@@ -24,12 +24,12 @@
 					</p>
 				</div>
 			</div>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/pfeg/1.png);"></div>
+			<div class="img" style="background-image: url(/assets/img/case-studies/pfeg/1.png);"></div>
 		</section>
 
 		<section>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/pfeg/2.png);"></div>
-			<div class="copy match">
+			<div class="img" style="background-image: url(/assets/img/case-studies/pfeg/2.png);"></div>
+			<div class="copy">
 				<div class="inner">
 					<h2>Idea</h2>
 					<p>
@@ -47,7 +47,7 @@
 		</div>
 
 		<section>
-			<div class="copy match">
+			<div class="copy">
 				<div class="inner">
 					<h2>Challenges</h2>
 					<p>
@@ -55,12 +55,12 @@
 					</p>
 				</div>
 			</div>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/pfeg/3.png);"></div>
+			<div class="img" style="background-image: url(/assets/img/case-studies/pfeg/3.png);"></div>
 		</section>
 
 		<section>
-			<div class="img match" style="background-image: url(/assets/img/case-studies/pfeg/4.png);"></div>
-			<div class="copy match">
+			<div class="img" style="background-image: url(/assets/img/case-studies/pfeg/4.png);"></div>
+			<div class="copy">
 				<div class="inner">
 					<h2>Graphics</h2>
 					<p>
