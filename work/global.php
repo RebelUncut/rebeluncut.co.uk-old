@@ -42,7 +42,7 @@
 		<div class="case-study-quote">
 			<blockquote>
 				<p>
-					QUOTE GOES HERE
+					We happily rely on Rebel Uncut to deliver an excellent service with little need for management on our part, they provide innovative solutions and consistently respond well to technical challenges.
 				</p>
 			</blockquote>
 		</div>
