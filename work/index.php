@@ -88,7 +88,7 @@
 	<ul class="work-tiles">
 		<li style="background-image:url(/assets/img/work-tiles/apprenticeships/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/apprenticeships/logo.png">
+				<img src="/assets/img/work-tiles/apprenticeships/logo.png" alt="Apprenticeships Logo">
 				<div class="tags">
 					<span>Concept</span>
 					<span>Film for web</span>
@@ -98,7 +98,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/army/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/army/logo.png">
+				<img src="/assets/img/work-tiles/army/logo.png" alt="Army Logo">
 				<div class="tags">
 					<span>Concept</span>
 					<span>Film for web</span>
@@ -108,7 +108,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/asda/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/asda/logo.png">
+				<img src="/assets/img/work-tiles/asda/logo.png" alt="ASDA Logo">
 				<div class="tags">
 					<span>Film for R&amp;D</span>
 					<span>Motion Graphics</span>
@@ -118,7 +118,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/capitaltv/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/capitaltv/logo.png">
+				<img src="/assets/img/work-tiles/capitaltv/logo.png" alt="Capital TV Logo">
 				<div class="tags">
 					<span>Press Film</span>
 					<span>Worldwide Press Launch</span>
@@ -128,7 +128,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/bourg/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/bourg/logo.png">
+				<img src="/assets/img/work-tiles/bourg/logo.png" alt="Bourg Logo">
 				<div class="tags">
 					<span>Design</span>
 					<span>Development &amp; CMS</span>
@@ -139,7 +139,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/dat/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/dat/logo.png">
+				<img src="/assets/img/work-tiles/dat/logo.png" alt="DAT Logo">
 				<div class="tags">
 					<span>Concept</span>
 					<span>Film for Web</span>
@@ -149,7 +149,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/discovery/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/discovery/logo.png">
+				<img src="/assets/img/work-tiles/discovery/logo.png" alt="Discovery Logo">
 				<div class="tags">
 					<span>Concept</span>
 					<span>Film for web</span>
@@ -160,7 +160,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/lemonade/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/lemonade/logo.png">
+				<img src="/assets/img/work-tiles/lemonade/logo.png" alt="Lemonade LA Logo">
 				<div class="tags">
 					<span>Design</span>
 					<span>Development</span>
@@ -170,7 +170,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/global/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/global/logo.png">
+				<img src="/assets/img/work-tiles/global/logo.png" alt="Global Radio Logo">
 				<div class="tags">
 					<span>Internal Comms Film</span>
 					<span>Animation</span>
@@ -180,7 +180,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/greenstem/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/greenstem/logo.png">
+				<img src="/assets/img/work-tiles/greenstem/logo.png" alt="Greenstem Logo">
 				<div class="tags">
 					<span>Concept</span>
 					<span>Bespoke Illustration</span>
@@ -190,7 +190,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/hearttv/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/hearttv/logo.png">
+				<img src="/assets/img/work-tiles/hearttv/logo.png" alt="Heart TV Logo">
 				<div class="tags">
 					<span>Press Film</span>
 					<span>Worldwide Press Launch</span>
@@ -200,7 +200,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/hom/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/hom/logo.png">
+				<img src="/assets/img/work-tiles/hom/logo.png" alt="HOM Logo">
 				<div class="tags">
 					<span>Documentary Film</span>
 					<span>Event Filming</span>
@@ -210,7 +210,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/foc/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/foc/logo.png">
+				<img src="/assets/img/work-tiles/foc/logo.png" alt="Young Rewired State Logo">
 				<div class="tags">
 					<span>Design</span>
 					<span>Development</span>
@@ -220,7 +220,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/keane/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/keane/logo.png">
+				<img src="/assets/img/work-tiles/keane/logo.png" alt="Keane Logo">
 				<div class="tags">
 					<span>Concept Pitch Film</span>
 					<span>Motion Graphics</span>
@@ -230,7 +230,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/library/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/library/logo.png">
+				<img src="/assets/img/work-tiles/library/logo.png" alt="Library Logo">
 				<div class="tags">
 					<span>News Film Coverage</span>
 					<span>Internal Assets Creation</span>
@@ -240,7 +240,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/lsc/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/lsc/logo.png">
+				<img src="/assets/img/work-tiles/lsc/logo.png" alt="LSC Logo">
 				<div class="tags">
 					<span>Concept</span>
 					<span>Celebrity Engagement Film</span>
@@ -250,7 +250,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/grammercy/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/grammercy/logo.png">
+				<img src="/assets/img/work-tiles/grammercy/logo.png" alt="Grammercy Logo">
 				<div class="tags">
 					<span>Design</span>
 					<span>Development &amp; CMS</span>
@@ -260,7 +260,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/nhs/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/nhs/logo.png">
+				<img src="/assets/img/work-tiles/nhs/logo.png" alt="NHS Logo">
 				<div class="tags">
 					<span>Concept</span>
 					<span>Film for web</span>
@@ -270,7 +270,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/pfeg/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/pfeg/logo.png">
+				<img src="/assets/img/work-tiles/pfeg/logo.png" alt="PFEG Logo">
 				<div class="tags">
 					<span>Concept</span>
 					<span>Bespoke Illustration</span>
@@ -280,7 +280,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/retail/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/retail/logo.png">
+				<img src="/assets/img/work-tiles/retail/logo.png" alt="Retail Logo">
 				<div class="tags">
 					<span>Campaign Engagement Films</span>
 					<span>Event Filming</span>
@@ -290,7 +290,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/stavros/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/stavros/logo.png">
+				<img src="/assets/img/work-tiles/stavros/logo.png" alt="Stavros Logo">
 				<div class="tags">
 					<span>Concept</span>
 					<span>Celebrity Engagement Film</span>
@@ -300,7 +300,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/steelite/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/steelite/logo.png">
+				<img src="/assets/img/work-tiles/steelite/logo.png" alt="Steelite Logo">
 				<div class="tags">
 					<span>Concept</span>
 					<span>International Brand Relaunch</span>
@@ -310,7 +310,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/thsh/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/thsh/logo.png">
+				<img src="/assets/img/work-tiles/thsh/logo.png" alt="THSH Logo">
 				<div class="tags">
 					<span>Concept</span>
 					<span>Documentary Film</span>
@@ -320,7 +320,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/flyover/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/flyover/logo.png">
+				<img src="/assets/img/work-tiles/flyover/logo.png" alt="Flyover Logo">
 				<div class="tags">
 					<span>Documentary Film</span>
 					<span>Event Coverage</span>
@@ -330,7 +330,7 @@
 		</li>
 				<li style="background-image:url(/assets/img/work-tiles/yrs/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/yrs/logo.png">
+				<img src="/assets/img/work-tiles/yrs/logo.png" alt="Young Rewired State Logo">
 				<div class="tags">
 					<span>Design</span>
 					<span>Development</span>
