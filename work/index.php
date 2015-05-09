@@ -128,7 +128,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/bourg/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/bourg/logo.png" alt="Bourg Logo">
+				<img src="/assets/img/work-tiles/bourg/logo.png" alt="Bourgtibourg Logo">
 				<div class="tags">
 					<span>Design</span>
 					<span>Development &amp; CMS</span>
@@ -250,7 +250,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/grammercy/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/grammercy/logo.png" alt="Grammercy Logo">
+				<img src="/assets/img/work-tiles/grammercy/logo.png" alt="Grammercy Hotel Logo">
 				<div class="tags">
 					<span>Design</span>
 					<span>Development &amp; CMS</span>
@@ -280,7 +280,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/retail/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/retail/logo.png" alt="Retail Logo">
+				<img src="/assets/img/work-tiles/retail/logo.png" alt="Retail Birmingham Logo">
 				<div class="tags">
 					<span>Campaign Engagement Films</span>
 					<span>Event Filming</span>
@@ -290,7 +290,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/stavros/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/stavros/logo.png" alt="Stavros Logo">
+				<img src="/assets/img/work-tiles/stavros/logo.png" alt="Road Safety Partnership Logo">
 				<div class="tags">
 					<span>Concept</span>
 					<span>Celebrity Engagement Film</span>
@@ -320,7 +320,7 @@
 		</li>
 		<li style="background-image:url(/assets/img/work-tiles/flyover/bg.png);">
 			<div class="filter">
-				<img src="/assets/img/work-tiles/flyover/logo.png" alt="Flyover Logo">
+				<img src="/assets/img/work-tiles/flyover/logo.png" alt="Flyover Show Logo">
 				<div class="tags">
 					<span>Documentary Film</span>
 					<span>Event Coverage</span>
