@@ -32,6 +32,7 @@
 			<ul>
 				<li><a href="/work">Work</a></li>
 				<li><a href="/team">Team</a></li>
+				<li><a href="/films">Films</a></li>
 				<li><a href="/contact">Contact</a></li>
 				<li class="get-in-touch">
 					<a href="https://twitter.com/rebeluncut" target="_blank">

@@ -77,6 +77,11 @@
 			margin-left: 0;
 			float: left;
 		}
+		@media screen and (max-width: $medium-screen) {
+			iframe {
+				height: 57vw;
+			}
+		}
 	}
 	+ footer {
 		margin-top: -1vw;
