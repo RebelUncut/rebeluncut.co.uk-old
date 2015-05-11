@@ -24,7 +24,6 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="/assets/style/style.css"/>
 
-	<script src="assets/js/prefixfree.min.js"></script>
 
 </head>
 <body>

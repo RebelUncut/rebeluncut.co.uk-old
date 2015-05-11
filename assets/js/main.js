@@ -8,4 +8,8 @@ $(document).ready(function() {
 
     $('.services ul li').matchHeight();
     $('.match').matchHeight();
+
+    var height = $(".case-studies ul a").height();
+    $(".case-studies ul a li").height(height);
 });
+

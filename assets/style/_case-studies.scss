@@ -3,17 +3,12 @@
 		display: flex;
 		justify-direction: row;
 		flex-wrap: wrap;
-		a {
-			height: 302px !important;
-		}
 		li {
 			width: 50vw;
 			position: relative;
 			display: block;
-			height: 302px !important;
 			* {
 				color: white;
-				height: 302px !important;
 			}
 			.bg-blur-clip {
 				overflow: hidden;
@@ -119,12 +114,6 @@
 			@include prefix((
 				filter: blur(0)
 			), webkit moz ms o);
-		}
-		ul,
-		ul a,
-		ul li,
-		ul li * {
-			height: 310px !important;
 		}
 	}
 }
