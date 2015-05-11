@@ -20,5 +20,9 @@
 	<script src="/assets/js/matchHeight.js"></script>
 	<script src="/assets/js/prefixfree.js"></script>
     <script src="/assets/js/main.js"></script>
+    <script src="/assets/js/quick-fix.js"></script>
+    <script>
+    	
+    </script>
 </body>
 </html>
