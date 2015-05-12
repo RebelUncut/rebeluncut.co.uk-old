@@ -113,10 +113,10 @@
 	</li>
 	<li>
 		<img class="headshot" src="/assets/img/team/dick.jpg" alt="Image of Dick the Office Fish">
-		<img class="hero" src="/assets/img/team/namor.jpg" alt="Image of Namor">
+		<img class="hero" src="/assets/img/team/namor1.jpg" alt="Image of Namor">
 		<h2>"Dick"</h2>
 		<h3 class="role">Office Mascot</h3>
-		<h3 class="hero">Alter Ego - Namor</h3>
+		<h3 class="hero">Alter Ego - Jaws</h3>
 	</li>
 </ul>
 
