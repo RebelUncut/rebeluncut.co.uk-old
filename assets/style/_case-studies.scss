@@ -7,33 +7,9 @@
 			width: 50vw;
 			position: relative;
 			display: block;
+			background-size: cover;
 			* {
 				color: white;
-			}
-			.bg-blur-clip {
-				overflow: hidden;
-				height: 100%;
-				width: 100%;
-				position: absolute;
-				.background {
-					background-size: cover;
-					background-position: left center;
-					height: 100%;
-					width:100%;
-					position: absolute;
-					z-index: -2;
-					@include prefix((
-						filter: blur(5px),
-						transform: scale(1.1, 1.1)
-					), webkit moz ms o);
-				}
-			}
-			.overlay {
-				height: 100%;
-				width:100%;
-				position: absolute;
-				z-index: -1;
-				@include linear-gradient(rgba(lighten($color_accent, 10), .25), rgba(darken($color_accent, 10), .25));
 			}
 			.content {
 				z-index: 1;

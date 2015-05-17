@@ -15,67 +15,51 @@
 	<div class="case-studies home">
 		<ul>
 			<a href="/work/asda">
-				<li> 
-				<div class="bg-blur-clip">
-					<div class="background" style="background-image: url(/assets/img/case-studies/asda/4.png);"></div>
-				</div>
-				<div class="overlay"></div>
-				<div class="content">
-					<h2 class="client">ABP & ASDA</h2>
-					<h1>A Steak in the Future</h1>
-					<p>
-						We were tasked with imagining a frictionless customer journey in the near future. We were given free reign to explore a seamless, ideal customer experience based around a couple planning a dinner party.
-					</p>
-					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
-				</div>
+				<li style="background-image: url(/assets/img/case-studies/asda/front.png);"> 
+					<div class="content">
+						<h2 class="client">ABP & ASDA</h2>
+						<h1>A Steak in the Future</h1>
+						<p>
+							We were tasked with imagining a frictionless customer journey in the near future. We were given free reign to explore a seamless, ideal customer experience based around a couple planning a dinner party.
+						</p>
+						<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
+					</div>
 				</li>
 			</a>
 			<a href="/work/chef">
-				<li> 
-				<div class="bg-blur-clip">
-					<div class="background" style="background-image: url(/assets/img/case-studies/chef/4.png);"></div>
-				</div>
-				<div class="overlay"></div>
-				<div class="content">
-					<h2 class="client">Chef & Brewer</h2>
-					<h1>From Gate to Plate</h1>
-					<p>
-						The client wanted to evoke a sense of connection from farm produce to Chef &amp; Brewer restaurants. In addition, shaping the C&B brand onto moving visuals whilst emphasising the message of fresh, seasonal menus across the narrative.
-					</p>
-					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
-				</div>
+				<li style="background-image: url(/assets/img/case-studies/chef/front.png);"> 
+					<div class="content">
+						<h2 class="client">Chef & Brewer</h2>
+						<h1>From Gate to Plate</h1>
+						<p>
+							The client wanted to evoke a sense of connection from farm produce to Chef &amp; Brewer restaurants. In addition, shaping the C&B brand onto moving visuals whilst emphasising the message of fresh, seasonal menus across the narrative.
+						</p>
+						<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
+					</div>
 				</li>
 			</a>
 			<a href="/work/pfeg">
-				<li> 
-				<div class="bg-blur-clip">
-					<div class="background" style="background-image: url(/assets/img/case-studies/pfeg/4.png);"></div>
-				</div>
-				<div class="overlay"></div>
-				<div class="content">
-					<h2 class="client">PFEG</h2>
-					<h1>Personal Finance Education</h1>
-					<p>
-						pfeg had commisioned an entirely new brand identity from IE Design and were looking to repurpose their amazing archive. The brief was to enhance existing talking head videos, with a surprising and refreshed signposting of their work.
-					</p>
-					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
-				</div>
+				<li style="background-image: url(/assets/img/case-studies/pfeg/front.png);"> 
+					<div class="content">
+						<h2 class="client">PFEG</h2>
+						<h1>Personal Finance Education</h1>
+						<p>
+							pfeg had commisioned an entirely new brand identity from IE Design and were looking to repurpose their amazing archive. The brief was to enhance existing talking head videos, with a surprising and refreshed signposting of their work.
+						</p>
+						<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
+					</div>
 				</li>
 			</a>
 			<a href="/work/global">
-				<li> 
-				<div class="bg-blur-clip">
-					<div class="background" style="background-image: url(/assets/img/case-studies/global/4.png);"></div>
-				</div>
-				<div class="overlay"></div>
-				<div class="content">
-					<h2 class="client">Global Radio</h2>
-					<h1>Recruitment Film</h1>
-					<p>
-						Global Radio was at the beginning of their rebrand & wanted to start a dialogue with their teams and potential new recruits. This brief was to create a film showing the heart of each of their stations which could be updated easily each year.
-					</p>
-					<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
-				</div>
+				<li style="background-image: url(/assets/img/case-studies/global/front.png);"> 
+					<div class="content">
+						<h2 class="client">Global Radio</h2>
+						<h1>Recruitment Film</h1>
+						<p>
+							Global Radio was at the beginning of their rebrand & wanted to start a dialogue with their teams and potential new recruits. This brief was to create a film showing the heart of each of their stations which could be updated easily each year.
+						</p>
+						<div class="read-more">Read case study<i class="fa fa-arrow-right"></i></div>
+					</div>
 				</li>
 			</a>
 		</ul>
