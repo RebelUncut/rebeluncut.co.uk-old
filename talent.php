@@ -78,7 +78,7 @@
 			</h2>
 			<ul>
 				<li>May 9 2015</li>
-				<li>June 13 2015</li>
+				<li>June 20 2015</li>
 				<li>July 11 2015</li>
 				<li>Week-long Festival of Code July 27 - August 2 2015 (Venue TBC)</li>
 			</ul>
